@@ -1,6 +1,5 @@
 import psycopg2
 import request_count_likes_from_wall
-import time
 
 # Подключение к базе данных PostgreSQL
 conn = psycopg2.connect(

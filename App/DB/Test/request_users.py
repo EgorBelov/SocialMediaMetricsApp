@@ -1,6 +1,7 @@
 import requests
 import json
 import tokens
+from rdflib import Graph, Namespace, URIRef, Literal
 
 def request_users():
     response = requests.get('https://api.vk.com/method/users.search', params={
