@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Database</title>
+</head>
+<body>
+    <h1>Содержимое базы данных</h1>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>ID ВКонтакте</th>
+            <th>Имя</th>
+            <th>Фамилия</th>
+            <th>Лайки на стене</th>
+            <th>Комментарии на стене</th>
+            <th>Репосты на стене</th>
+        </tr>
+        {% for user in users_data %}
+            <tr>
+                <td>{{ user[0] }}</td>
+                <td>{{ user[1] }}</td>
+                <td>{{ user[2] }}</td>
+                <td>{{ user[3] }}</td>
+                <td>{{ user[4] }}</td>
+                <td>{{ user[5] }}</td>
+                <td>{{ user[6] }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+</form>
+
+</body>
+</

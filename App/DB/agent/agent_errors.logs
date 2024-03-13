@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "E:\HSE_HERNYA\Usanin VKR\social_agent-master\agent\core\social_agent.py", line 1, in <module>
+    from owlready2 import *
+ModuleNotFoundError: No module named 'owlready2'

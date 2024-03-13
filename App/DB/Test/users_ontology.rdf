@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.org/user/303110925">
+    <foaf:name>Kristina</foaf:name>
+    <foaf:surname>Moor</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/306499909">
+    <foaf:name>Роман</foaf:name>
+    <foaf:surname>Серебряков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/786428">
+    <foaf:name>Йуля</foaf:name>
+    <foaf:surname>Апрельская</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/43201">
+    <foaf:name>Александр</foaf:name>
+    <foaf:surname>Витюховский</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/280909515">
+    <foaf:name>Роман</foaf:name>
+    <foaf:surname>Евдокимов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/53733558">
+    <foaf:name>Наталья</foaf:name>
+    <foaf:surname>Латышева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5371618">
+    <foaf:name>Лев</foaf:name>
+    <foaf:surname>Арамилев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/18223808">
+    <foaf:name>Татьяна</foaf:name>
+    <foaf:surname>Киблер</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/92812230">
+    <foaf:name>Алия</foaf:name>
+    <foaf:surname>Габдуллина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/300080955">
+    <foaf:name>Виктория</foaf:name>
+    <foaf:surname>Щербакова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/4588982">
+    <foaf:name>Екатерина</foaf:name>
+    <foaf:surname>Кузнецова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/407217368">
+    <foaf:name>Aleks</foaf:name>
+    <foaf:surname>Petrov</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/247360500">
+    <foaf:name>Яна</foaf:name>
+    <foaf:surname>Бледная</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/401606809">
+    <foaf:name>Николай</foaf:name>
+    <foaf:surname>Подтаев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/56079315">
+    <foaf:name>Марина</foaf:name>
+    <foaf:surname>Поселенова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/351112822">
+    <foaf:name>Полина</foaf:name>
+    <foaf:surname>Савинова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5093806">
+    <foaf:name>Валерия</foaf:name>
+    <foaf:surname>Круглова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/153299150">
+    <foaf:name>Екатерина</foaf:name>
+    <foaf:surname>Семенова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3444208">
+    <foaf:name>Алексей</foaf:name>
+    <foaf:surname>Леонтьев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1823513">
+    <foaf:name>Константин</foaf:name>
+    <foaf:surname>Деменев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1908811">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Ландарь</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/225277381">
+    <foaf:name>Катя</foaf:name>
+    <foaf:surname>Рогожникова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3543772">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Белова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3670515">
+    <foaf:name>Анастасия</foaf:name>
+    <foaf:surname>Михайлова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1198425">
+    <foaf:name>Павел</foaf:name>
+    <foaf:surname>Веселков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/69061811">
+    <foaf:name>Матвей</foaf:name>
+    <foaf:surname>Оносов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/2455857">
+    <foaf:name>Мария</foaf:name>
+    <foaf:surname>Торопова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/326878039">
+    <foaf:name>Татьяна</foaf:name>
+    <foaf:surname>Макарова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/99419180">
+    <foaf:name>Ксюша</foaf:name>
+    <foaf:surname>Минеева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/162559278">
+    <foaf:name>Юлия</foaf:name>
+    <foaf:surname>Усова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/916167">
+    <foaf:name>Денис</foaf:name>
+    <foaf:surname>Канафеев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5930116">
+    <foaf:name>Екатерина</foaf:name>
+    <foaf:surname>Гладкова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/82821806">
+    <foaf:name>Даша</foaf:name>
+    <foaf:surname>Кобелева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/420484758">
+    <foaf:name>Тимур</foaf:name>
+    <foaf:surname>Небогатиков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/2027780">
+    <foaf:name>Ольга</foaf:name>
+    <foaf:surname>Маркидонова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/202781966">
+    <foaf:name>Артем</foaf:name>
+    <foaf:surname>Сычев</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3671206">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Тумановская</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/209756153">
+    <foaf:name>Максим</foaf:name>
+    <foaf:surname>Дробот</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/19932273">
+    <foaf:name>Виталий</foaf:name>
+    <foaf:surname>Селетков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/155125304">
+    <foaf:name>Варя</foaf:name>
+    <foaf:surname>Коннова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/141961430">
+    <foaf:name>Александр</foaf:name>
+    <foaf:surname>Белов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/13228928">
+    <foaf:name>Анна</foaf:name>
+    <foaf:surname>Новикова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/42940611">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Гундина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/10445347">
+    <foaf:name>Юлия</foaf:name>
+    <foaf:surname>Крючкова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/12373235">
+    <foaf:name>Ксения</foaf:name>
+    <foaf:surname>Мокина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/436295816">
+    <foaf:name>Александр</foaf:name>
+    <foaf:surname>Надымов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/4870650">
+    <foaf:name>Георгий</foaf:name>
+    <foaf:surname>Бурлаков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/2683606">
+    <foaf:name>Надежда</foaf:name>
+    <foaf:surname>Есюнина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/2954412">
+    <foaf:name>Александра</foaf:name>
+    <foaf:surname>Никонова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/136205363">
+    <foaf:name>Ксюша</foaf:name>
+    <foaf:surname>Глушкова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/66372004">
+    <foaf:name>Наталья</foaf:name>
+    <foaf:surname>Зорина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/343306612">
+    <foaf:name>Дмитрий</foaf:name>
+    <foaf:surname>Сруров</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/79072287">
+    <foaf:name>Ксения</foaf:name>
+    <foaf:surname>Колосницына</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/259881706">
+    <foaf:name>Соня</foaf:name>
+    <foaf:surname>Трясцына</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/212582771">
+    <foaf:name>Дмитрий</foaf:name>
+    <foaf:surname>Ипатов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3246056">
+    <foaf:name>Наталья</foaf:name>
+    <foaf:surname>Чабина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/7612733">
+    <foaf:name>Марина</foaf:name>
+    <foaf:surname>Коробова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/29287297">
+    <foaf:name>Алёна</foaf:name>
+    <foaf:surname>Шумилова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/168256850">
+    <foaf:name>Алексей</foaf:name>
+    <foaf:surname>Шулепов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/988967">
+    <foaf:name>Евгения</foaf:name>
+    <foaf:surname>Окулова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/6881671">
+    <foaf:name>Наталия</foaf:name>
+    <foaf:surname>Нежданова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/183989750">
+    <foaf:name>Софья</foaf:name>
+    <foaf:surname>Суровцева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3061441">
+    <foaf:name>Александр</foaf:name>
+    <foaf:surname>Шарафутдинов</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/2566108">
+    <foaf:name>Наташа</foaf:name>
+    <foaf:surname>Дикарева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/4080465">
+    <foaf:name>Мария</foaf:name>
+    <foaf:surname>Пименова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/23683041">
+    <foaf:name>Ксюша</foaf:name>
+    <foaf:surname>Субботина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/207926353">
+    <foaf:name>Савелий</foaf:name>
+    <foaf:surname>Шаров</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/37749117">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Зиновьева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/3529940">
+    <foaf:name>Татьяна</foaf:name>
+    <foaf:surname>Помаскина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/155050971">
+    <foaf:name>Даша</foaf:name>
+    <foaf:surname>Балезина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1520955">
+    <foaf:name>Юлия</foaf:name>
+    <foaf:surname>Борисова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5972890">
+    <foaf:name>Михаил</foaf:name>
+    <foaf:surname>Вологдин</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/9662041">
+    <foaf:name>Александр</foaf:name>
+    <foaf:surname>Филенко</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/340623352">
+    <foaf:name>Анжелла</foaf:name>
+    <foaf:surname>Назарова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/170720">
+    <foaf:name>Яна</foaf:name>
+    <foaf:surname>Галимова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/16271280">
+    <foaf:name>Елена</foaf:name>
+    <foaf:surname>Яковлева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/12695033">
+    <foaf:name>Алёна</foaf:name>
+    <foaf:surname>Лыкова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/203238214">
+    <foaf:name>Сергей</foaf:name>
+    <foaf:surname>Наймушин</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/34187159">
+    <foaf:name>Серега</foaf:name>
+    <foaf:surname>Сидоров</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/313941186">
+    <foaf:name>Татьяна</foaf:name>
+    <foaf:surname>Трясцына</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/13272040">
+    <foaf:name>Ира</foaf:name>
+    <foaf:surname>Беляева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/245164800">
+    <foaf:name>Вероника</foaf:name>
+    <foaf:surname>Бородулина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5711178">
+    <foaf:name>Юлия</foaf:name>
+    <foaf:surname>Картавцева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/4665827">
+    <foaf:name>Екатерина</foaf:name>
+    <foaf:surname>Дуленцова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/22251418">
+    <foaf:name>Варя</foaf:name>
+    <foaf:surname>Муравьева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/5711446">
+    <foaf:name>Ирина</foaf:name>
+    <foaf:surname>Журавель</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/17032714">
+    <foaf:name>Nikolay</foaf:name>
+    <foaf:surname>Kuznetcov</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/6185298">
+    <foaf:name>Лена</foaf:name>
+    <foaf:surname>Бригадина</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/127050325">
+    <foaf:name>Станислав</foaf:name>
+    <foaf:surname>Боровков</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1455301">
+    <foaf:name>Андрей</foaf:name>
+    <foaf:surname>Алесковский</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/228838701">
+    <foaf:name>Надежда</foaf:name>
+    <foaf:surname>Нечаева</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/11713683">
+    <foaf:name>Наталья</foaf:name>
+    <foaf:surname>Главатских</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/1913439">
+    <foaf:name>Irina</foaf:name>
+    <foaf:surname>Trofimova</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/214072091">
+    <foaf:name>Марина</foaf:name>
+    <foaf:surname>Тыринова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/6252563">
+    <foaf:name>Алексей</foaf:name>
+    <foaf:surname>Семакин</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/6482710">
+    <foaf:name>Дмитрий</foaf:name>
+    <foaf:surname>Путин</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/868934">
+    <foaf:name>Ольга</foaf:name>
+    <foaf:surname>Суслова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/398472623">
+    <foaf:name>Egor</foaf:name>
+    <foaf:surname>Podgornyh</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/47135">
+    <foaf:name>Евгения</foaf:name>
+    <foaf:surname>Сивкова</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/user/34406788">
+    <foaf:name>Юлия</foaf:name>
+    <foaf:surname>Баркина</foaf:surname>
+  </rdf:Description>
+</rdf:RDF>
