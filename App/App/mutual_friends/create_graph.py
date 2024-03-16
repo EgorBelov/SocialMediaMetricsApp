@@ -1,4 +1,10 @@
 import json
+from datetime import datetime
+
+import networkx as nx
+import psycopg2
+from matplotlib import pyplot as plt
+
 from App.mutual_friends.main import VkFriends
 from App.mutual_friends.settings import token, my_id, api_v, max_workers, delay, deep
 
@@ -25,7 +31,7 @@ class D3(VkFriends):
 		self.friendships = self.common_friends()
 		self.js = {"nodes": [], "links": []}
 		self.dict_friends = self.to_json()
-		#self.write_json(self.to_json())
+		self.write_json(self.to_json())
 
 	def to_json(self):
 		"""
@@ -50,9 +56,45 @@ class D3(VkFriends):
 
 		return json.JSONEncoder().encode(self.js)
 
+
 	def write_json(self, json):
-		with open("web/miserables.json","w") as f:
+		with open("static/miserables.json", "w") as f:
 			f.write(json)
 
 if __name__ == '__main__':
-	a = D3(token, my_id, api_v, max_workers)
+	conn = psycopg2.connect(
+		database="SocialMediaMetrics",
+		user="postgres",
+		password="123321",
+		host="localhost",
+		port="5432"
+	)
+
+	# Создание курсора
+	cursor = conn.cursor()
+
+	# Запрос на выбор всех пользователей из таблицы vk_users
+	cursor.execute('SELECT * FROM vk_users')
+	users_data = cursor.fetchall()
+
+	a = D3(token, users_data[0][1], api_v, max_workers)
+	# Создание пустого графа
+	G = nx.Graph()
+
+	# Добавление узлов
+	for node_data in a.js["nodes"]:
+		G.add_node(node_data["name"], group=node_data["group"], photo=node_data["photo"])
+
+	# Добавление ребер
+	for link in a.js["links"]:
+		source = a.js["nodes"][link["source"]]["name"]
+		target = a.js["nodes"][link["target"]]["name"]
+		G.add_edge(source, target, value=link["value"])
+
+
+	# Отобразите граф (если необходимо)
+	plt.show()
+	# Сохранение изменений и закрытие соединения
+	cursor.close()
+	conn.close()
+

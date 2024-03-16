@@ -3038,7 +3038,6 @@
 <owl:NamedIndividual rdf:about="#-28905875_33429758">
   <rdf:type rdf:resource="#Post"/>
   <postedBy rdf:resource="#28905875"/>
-  <viewedBy rdf:resource="#140092719"/>
   <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
 </owl:NamedIndividual>
 
@@ -3099,6 +3098,139 @@
 <owl:NamedIndividual rdf:about="#-12353330_14206277">
   <rdf:type rdf:resource="#Post"/>
   <postedBy rdf:resource="#12353330"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-28905875_33454440">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#28905875"/>
+  <viewedBy rdf:resource="#16257176"/>
+  <hasTag rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Реклама@rhymes:</hasTag>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-28905875_33453593">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#28905875"/>
+  <viewedBy rdf:resource="#20922460"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-9884911_9826671">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#9884911"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-9884911_9826653">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#9884911"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29544671_9499679">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29544671"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29544671_9499645">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29544671"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29544671_9499547">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29544671"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-66678575_83693056">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#66678575"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-66678575_83693024">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#66678575"/>
+  <viewedBy rdf:resource="#16257176"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-66678575_83692992">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#66678575"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-30210603_3049160">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#30210603"/>
+  <viewedBy rdf:resource="#16257176"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-30210603_3049146">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#30210603"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-30210603_3048939">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#30210603"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29725517_1358166">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29725517"/>
+  <viewedBy rdf:resource="#16257176"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29725517_1358161">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29725517"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-12353330_14215095">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#12353330"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-12353330_14215075">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#12353330"/>
+  <viewedBy rdf:resource="#16257176"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-66678575_83693094">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#66678575"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-30210603_3049180">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#30210603"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29725517_1358177">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29725517"/>
+  <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
+</owl:NamedIndividual>
+
+<owl:NamedIndividual rdf:about="#-29725517_1358183">
+  <rdf:type rdf:resource="#Post"/>
+  <postedBy rdf:resource="#29725517"/>
   <isAds rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</isAds>
 </owl:NamedIndividual>
 

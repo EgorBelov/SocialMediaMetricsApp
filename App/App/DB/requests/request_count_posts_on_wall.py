@@ -1,11 +1,11 @@
 import requests
 import json
-from App.requests import tokens
+from App.DB.requests import tokens
 
 
 def request_count_likes_from_wall(id):
         response = requests.get('https://api.vk.com/method/wall.get', params={
-                'access_token': tokens.access_token,
+                'access_token': tokens.access_user_token_1,
                 'owner_id': id,
                 'v': '5.199',
                 'filter': 'all',
@@ -19,9 +19,10 @@ def request_count_likes_from_wall(id):
         reposts_count = sum([post['reposts']['count'] for post in wall_info])
         comments_count = sum([post['comments']['count'] for post in wall_info])
         #print(id)
-        return [likes_count, reposts_count, comments_count]
+        return [likes_count, reposts_count, comments_count, len(wall_info)]
 
 # print(f'количество лайков: {likes_count}')
 # print(f'количество репостов: {reposts_count}')
 # print(f'количество комментов: {comments_count}')
-#(request_count_likes_from_wall(673687878))
+res = request_count_likes_from_wall(673687878)
+print(res)

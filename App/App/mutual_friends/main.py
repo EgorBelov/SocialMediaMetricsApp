@@ -4,11 +4,6 @@ import time
 import operator
 import networkx as nx
 import requests
-import pickle
-from concurrent.futures import ThreadPoolExecutor
-
-from matplotlib import pyplot as plt
-
 from App.mutual_friends.settings import token, my_id, api_v, max_workers, delay, deep
 
 
@@ -129,83 +124,14 @@ class VkFriends():
 
         return result
 
-    def deep_friends(self, deep):
-        """
-		Возвращает словарь с id пользователей, которые являются друзьями, или друзьями-друзей (и т.д. в зависимсти от
-		deep - глубины поиска) указаннного пользователя
-		"""
-        result = {}
 
-        @force
-        def worker(i):
-            r = requests.get(self.request_url('execute.deepFriends', 'targets=%s' % VkFriends.make_targets(i),
-                                              access_token=True)).json()['response']
-            for x, id in enumerate(i):
-                result[id] = tuple(r[x]["items"]) if r[x] else None
-
-        def fill_result(friends):
-            with ThreadPoolExecutor(max_workers=self.max_workers) as pool:
-                [pool.submit(worker, i) for i in VkFriends.parts(friends)]
-
-        for i in range(deep):
-            if result:
-                # те айди, которых нет в ключах + не берем id:None
-                fill_result(list(
-                    set([item for sublist in result.values() if sublist for item in sublist]) - set(result.keys())))
-            else:
-                fill_result(
-                    requests.get(self.request_url('friends.get', 'user_id=%s' % self.my_id, access_token=True)).json()[
-                        'response']["items"])
-
-        return result
-
-    def from_where_gender(self):
-        """
-		Возвращает кортеж из 3х частей
-		0 -  сколько всего/в% друзей в определнной локации (country, city)
-		1 - список, содержащий количество друзей того или иного пола. Где индекс
-			0 - пол не указан
-			1 - женский;
-			2 - мужской;
-		2 - сколько друзей родилось в тот или иной день
-		"""
-        locations, all, genders, bdates = [{}, {}], [0, 0], [0, 0, 0], {}
-
-        def calculate(dct, all):
-            return {k: (dct[k], round(dct[k] / all * 100, 2)) for k, v in dct.items()}
-
-        def constr(location, dct, ind):
-            if location in dct.keys():
-                place = dct[location]["title"]
-                locations[ind][place] = 1 if place not in locations[ind] else locations[ind][place] + 1
-                all[ind] += 1
-
-        for i in self.all_friends.values():
-            constr("country", i, 0)
-            constr("city", i, 1)
-            if "sex" in i.keys():
-                genders[i["sex"]] += 1
-            if "bdate" in i.keys():
-                date = '.'.join(i["bdate"].split(".")[:2])
-                bdates[date] = 1 if date not in bdates else bdates[date] + 1
-
-        return (calculate(locations[0], all[0]), calculate(locations[1], all[1])), genders, bdates
-
-    @staticmethod
-    def save_load_deep_friends(myfile, sv, smth=None):
-        if sv and smth:
-            pickle.dump(smth, open(myfile, "wb"))
-        else:
-            return pickle.load(open(myfile, "rb"))
 
 
 if __name__ == '__main__':
     a = VkFriends(token, my_id, api_v, max_workers)
-    print(a.my_name, a.my_last_name, a.my_id, a.photo)
-    df = a.common_friends()
+    #print(a.my_name, a.my_last_name, a.my_id, a.photo)
+    #df = a.common_friends()
 
-    #df = a.deep_friends(deep)
-    print(df)
-    #VkFriends.save_load_deep_friends('mutual_friends_dct', True, df)
-# print(pickle.load( open('deep_friends_dct', "rb" )))
-# print(a.from_where_gender())
+
+    #print(df)
+

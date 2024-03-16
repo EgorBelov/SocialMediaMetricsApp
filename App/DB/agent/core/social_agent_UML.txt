@@ -1,0 +1,107 @@
+@startuml
+class Ontology {
+    create_ontology()
+    save_person()
+    save_community()
+    save_post()
+    post_viewed()
+    post_liked()
+        path
+    onto
+    onto_lock
+    __init__()
+}
+class VK {
+    get_person()
+    get_person_friends()
+    get_person_groups()
+    get_community()
+    get_posts()
+    get_liked_posts()
+    is_user_online()
+        api
+    target_users
+    target_groups
+    __init__()
+}
+class NewsFeed {
+    is_empty()
+    get_last_post_id()
+    add_posts()
+    get_user_news()
+        news_feed_lock
+    __init__()
+}
+class EventLog {
+    add_trace()
+    write_log()
+    event_online()
+    event_offline()
+    event_post_add()
+    event_post_seen()
+    event_post_liked()
+    event_post_copied()
+        log
+    log_lock
+    log_path
+    __init__()
+}
+class Person {
+        u_id
+    first_name
+    last_name
+    gender
+    birth_day
+    photo
+    domain
+    friends
+    groups
+    __init__()
+}
+class Community {
+        g_id
+    name
+    activity
+    __init__()
+}
+class Post {
+    add_history()
+    is_reposted()
+        id
+    owner_id
+    date
+    type
+    is_ads
+    tags
+    __init__()
+}
+class GroupEventMiner {
+    run()
+    load_news_feed()
+        community
+    vk
+    news_feed
+    ontology
+    event_log
+    trace
+    trace
+    __init__()
+}
+class UserEventMiner {
+    run()
+    load_news_feed()
+    callback()
+        vk
+    news_feed
+    event_log
+    ontology
+    person
+    owner_id
+    user_online
+    trace
+    trace
+    user_online
+    user_online
+    __init__()
+}
+@enduml
