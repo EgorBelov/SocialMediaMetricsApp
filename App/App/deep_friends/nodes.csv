@@ -77,7 +77,7 @@ id,label,type,sex,domain,country,city,bdate
 96153390,Саша Вихарева,friend,female,vk.com/id96153390,Unknown,Санкт-Петербург,Unknown
 97228038,Матвей Платонов,friend,male,vk.com/id97228038,Unknown,Пермь,15.8.1994
 98121870,Алина Кузнечик,friend,female,vk.com/kuznechik_official13,Unknown,Москва,Unknown
-99415957,Виктория Гинина,friend,female,vk.com/gininavika,Unknown,Пермь,31.5
+99415957,Виктория Гинина,friend,female,vk.com/gininavika,Unknown,Пермь,Unknown
 104021694,Даша Долгих,friend,female,vk.com/ddasha_252,Unknown,Пермь,11.9
 105400501,Ната Шилова,friend,female,vk.com/id105400501,Unknown,Пермь,21.10
 105628429,Надюша Трубочка,friend,female,vk.com/nadyoushatrybinshtein,Unknown,Пермь,26.9
@@ -293,7 +293,7 @@ id,label,type,sex,domain,country,city,bdate
 1448411,Иван Потапов,friend_of_friend,male,vk.com/id1448411,Unknown,Москва,22.4.1990
 1480129,Polina Kuklina,friend_of_friend,female,vk.com/pkuklina,Unknown,Москва,10.5.1991
 1486267,Inessa Tumanyan,friend_of_friend,female,vk.com/id1486267,Unknown,Москва,Unknown
-1502602,Олька Кислицына,friend_of_friend,female,vk.com/lazy_genious,Unknown,Пермь,25.7.1991
+1502602,Olka Kislitsyna,friend_of_friend,female,vk.com/lazy_genious,Unknown,Пермь,25.7.1991
 1503053,Валерия Мизь,friend_of_friend,female,vk.com/valeri_kleo,Unknown,Дедовск,22.12
 1520509,Алексей Чулкин,friend_of_friend,male,vk.com/id1520509,Unknown,Unknown,Unknown
 1563325,Nadya Pavlova,friend_of_friend,female,vk.com/nadyarock,Unknown,Москва,30.9.1993
@@ -301,7 +301,7 @@ id,label,type,sex,domain,country,city,bdate
 1592415,Максим Лёвушкин,friend_of_friend,male,vk.com/sex_max,Unknown,Тверь,29.12
 1592604,Артур Шарафутдинов,friend_of_friend,male,vk.com/id1592604,Unknown,Москва,25.12.1987
 1597954,Андрей Кравченко,friend_of_friend,male,vk.com/id1597954,Unknown,Москва,28.4.1985
-1634309,Дима Чучукалов,friend_of_friend,male,vk.com/id1634309,Unknown,Москва,Unknown
+1634309,Наталья Курсалина,friend_of_friend,female,vk.com/id1634309,Unknown,Даниловка (Красногорское г/п),Unknown
 1643043,Оля Латышева,friend_of_friend,female,vk.com/id1643043,Unknown,Москва,20.8.1990
 1673432,Ekaterina Greshneva,friend_of_friend,female,vk.com/burn_kat,Unknown,Москва,4.2.1987
 1682743,Антон Никифоров,friend_of_friend,male,vk.com/asphyxus,Unknown,Unknown,9.8
@@ -550,7 +550,7 @@ id,label,type,sex,domain,country,city,bdate
 575118,Борис Коробов,friend_of_friend,male,vk.com/boriskom,Unknown,Санкт-Петербург,Unknown
 577532,Владимир Фролов,friend_of_friend,male,vk.com/deeafrex,Unknown,Санкт-Петербург,4.4
 580849,Антон Сергеев,friend_of_friend,male,vk.com/antonsergeev,Unknown,Москва,16.12
-598155,Андрей Степанов,friend_of_friend,male,vk.com/andrewstep,Unknown,Санкт-Петербург,5.9.1987
+598155,Midnite Beka,friend_of_friend,male,vk.com/id598155,Unknown,Санкт-Петербург,Unknown
 604483,Василий Торгашин,friend_of_friend,male,vk.com/vtorg,Unknown,Сочи,Unknown
 605759,Олег Силяев,friend_of_friend,male,vk.com/silyaevtrumpet,Unknown,Москва,1.6
 618330,Сергей Удалов,friend_of_friend,male,vk.com/udalov,Unknown,,5.5
@@ -656,7 +656,7 @@ id,label,type,sex,domain,country,city,bdate
 1204813,Ульяна Кесарева,friend_of_friend,female,vk.com/uliana_malutka,Unknown,Москва,15.11.1986
 1221904,Александр Смирнов,friend_of_friend,male,vk.com/acc010786,Unknown,Королёв,1.7
 1222131,Алексей Витальевич,friend_of_friend,male,vk.com/bdort,Unknown,Unknown,14.6
-1223539,Анастасия Лунина,friend_of_friend,female,vk.com/anastasialunina,Unknown,Томск,3.7
+1223539,Анастасия Евгеньевна-Лунина,friend_of_friend,female,vk.com/anastasialunina,Unknown,Томск,3.7
 1231739,Андрей Коновалов,friend_of_friend,male,vk.com/illumate,Unknown,Unknown,17.10
 1232312,Илья Акинтьев,friend_of_friend,male,vk.com/id1232312,Unknown,Северодвинск,10.7.1990
 1233640,Владимир Самарин,friend_of_friend,male,vk.com/vladimirsamarin,Unknown,Москва,21.3.1986
@@ -667,7 +667,7 @@ id,label,type,sex,domain,country,city,bdate
 1249910,Евгений Кузяхметов,friend_of_friend,male,vk.com/djevva,Unknown,Нефтекамск,16.1.1986
 1252229,Maria Komaricheva,friend_of_friend,female,vk.com/mkulpina,Unknown,Москва,10.4
 1255149,Антон Черепанов,friend_of_friend,male,vk.com/antoncherepanov84,Unknown,Genève,29.3
-1255669,Лена Шестера,friend_of_friend,female,vk.com/lena_sch,Unknown,Unknown,Unknown
+1255669,Елена Шестера,friend_of_friend,female,vk.com/lena_sch,Unknown,Unknown,Unknown
 1262759,Игорь Князев,friend_of_friend,male,vk.com/knazew,Unknown,Санкт-Петербург,Unknown
 1264635,Фёдор Наумов,friend_of_friend,male,vk.com/fedor.naumov,Unknown,Москва,3.8.1986
 1265148,Максим Алексенцев,friend_of_friend,male,vk.com/alexentsev,Unknown,Димитровград,19.3
@@ -860,7 +860,7 @@ id,label,type,sex,domain,country,city,bdate
 8170176,Кирилл Сычев,friend_of_friend,male,vk.com/dr.sychev,Unknown,Рязань,7.2
 8274435,Елена Кякинен,friend_of_friend,female,vk.com/id8274435,Unknown,Пермь,27.5
 8289043,Денис Синица,friend_of_friend,male,vk.com/id8289043,Unknown,Пермь,7.11.1975
-8348341,Ян Янович,friend_of_friend,male,vk.com/yan.pastkhov,Unknown,Unknown,Unknown
+8348341,Ян Яныч,friend_of_friend,male,vk.com/yan.pastkhov,Unknown,Unknown,Unknown
 8439218,Наталия Пашкеева,friend_of_friend,female,vk.com/id8439218,Unknown,Пермь,13.6
 8711424,Irina Koksharova,friend_of_friend,female,vk.com/id8711424,Unknown,Пермь,Unknown
 8929063,Олеся Реутова,friend_of_friend,female,vk.com/olesyareutova,Unknown,Пермь,16.1.1984
@@ -1258,7 +1258,6 @@ id,label,type,sex,domain,country,city,bdate
 2220536,Серж Марковкин,friend_of_friend,male,vk.com/serg_markovkin,Unknown,Чайковский,29.4.1987
 2244237,Акчена Нушаб,friend_of_friend,female,vk.com/akchena.nushab,Unknown,Санкт-Петербург,5.11
 2247369,Карина Арз-Графенберг,friend_of_friend,female,vk.com/cherlina,Unknown,Москва,28.10.1990
-2310554,Владислав Катенкарь,friend_of_friend,male,vk.com/id2310554,Unknown,Москва,4.11
 2380525,Анастасия Гарифулина,friend_of_friend,female,vk.com/lalayt,Unknown,Москва,28.4.1986
 2386320,Алексей Верещагин,friend_of_friend,male,vk.com/id2386320,Unknown,Севастополь,22.6.1989
 2425974,Светлана Баранова,friend_of_friend,female,vk.com/svetabar26,Unknown,Санкт-Петербург,26.6
@@ -1419,6 +1418,7 @@ id,label,type,sex,domain,country,city,bdate
 19866600,Олег Шер,friend_of_friend,male,vk.com/lionovich,Unknown,Хабаровск,25.2
 19939897,Анастасия Комарова,friend_of_friend,female,vk.com/kiki.evans,Unknown,Киров,Unknown
 19955045,Настя Борисова,friend_of_friend,female,vk.com/belo4ka69,Unknown,Unknown,15.12
+20039657,Владислав Субботин,friend_of_friend,male,vk.com/markus_1968,Unknown,Санкт-Петербург,Unknown
 104508,DELETED,friend_of_friend,male,vk.com/id104508,Unknown,Москва,21.6.1989
 118276,Евгений Ковалёв,friend_of_friend,male,vk.com/manu_uny,Unknown,Санкт-Петербург,20.9
 123598,Нина-Фейгл Лейн,friend_of_friend,female,vk.com/nisemushina,Unknown,Chicago,Unknown
@@ -1457,7 +1457,7 @@ id,label,type,sex,domain,country,city,bdate
 1013447,Лилия Хакимова,friend_of_friend,female,vk.com/id1013447,Unknown,Unknown,Unknown
 1014509,Александр Гаус,friend_of_friend,male,vk.com/folse,Unknown,Unknown,Unknown
 1035030,Иван Канаев,friend_of_friend,male,vk.com/ivankanaev_music,Unknown,Москва,Unknown
-1090471,Юлия Бабенко,friend_of_friend,female,vk.com/winkin,Unknown,Пермь,26.2
+1090471,Юлия Бабенко,friend_of_friend,female,vk.com/winkin,Unknown,Пермь,Unknown
 1092261,Анна Бочарова,friend_of_friend,female,vk.com/id1092261,Unknown,Пермь,9.6.1989
 1117559,Петр Пузиков,friend_of_friend,male,vk.com/p_p_v,Unknown,Пермь,15.12
 1132328,Ирина Неганова,friend_of_friend,female,vk.com/id1132328,Unknown,Москва,28.5
@@ -1547,7 +1547,7 @@ id,label,type,sex,domain,country,city,bdate
 2383515,Олег Новак,friend_of_friend,male,vk.com/gelok,Unknown,Пермь,6.10
 2384033,Elena Kosheeva,friend_of_friend,female,vk.com/flowersomethingnew,Unknown,Unknown,Unknown
 2384721,Ольга Кондратова,friend_of_friend,female,vk.com/id2384721,Unknown,Пермь,7.2
-2402384,Наталья Ещенкова,friend_of_friend,female,vk.com/eschenkovanatalia,Unknown,Unknown,12.12
+2402384,Жанна Пенкина,friend_of_friend,female,vk.com/eschenkovanatalia,Unknown,Кузьмино (Себеж г/п),26.6
 2426622,Вадим Ямаев,friend_of_friend,male,vk.com/yamayev,Unknown,Пермь,16.3.1990
 2456795,Маргарита Колчанова,friend_of_friend,female,vk.com/parsali,Unknown,Athens,23.12
 2459458,Иван Брижан,friend_of_friend,male,vk.com/id2459458,Unknown,Пермь,26.11.1989
@@ -1714,7 +1714,7 @@ id,label,type,sex,domain,country,city,bdate
 1237299,Анастасия Косотурова,friend_of_friend,female,vk.com/akosoturova,Unknown,Unknown,Unknown
 1256946,Вера Чугунова,friend_of_friend,female,vk.com/veramex,Unknown,Пермь,24.11.1986
 1261020,Алексей Попов,friend_of_friend,male,vk.com/dental_implants,Unknown,Пермь,Unknown
-1264552,Мирча Шнайдер,friend_of_friend,female,vk.com/mircha666,Unknown,Пермь,30.12
+1264552,Мирча Шнайдер,friend_of_friend,female,vk.com/id1264552,Unknown,Пермь,30.12
 1278665,Андрей Швайцер,friend_of_friend,male,vk.com/shvaytser_a,Unknown,Пермь,24.6
 1286595,Татьяна Куприянюк,friend_of_friend,female,vk.com/zakrutka,Unknown,Пермь,20.9
 1288134,Leyla Mursalimova,friend_of_friend,female,vk.com/leyla_mursa,Unknown,Пермь,Unknown
@@ -2938,7 +2938,7 @@ id,label,type,sex,domain,country,city,bdate
 1594027,Полина Козич,friend_of_friend,female,vk.com/polinakozich,Unknown,Пермь,22.1
 1604681,Михаил Титов,friend_of_friend,male,vk.com/m.b.titov,Unknown,Пермь,20.3.1983
 1633114,Оксана Ермакова,friend_of_friend,female,vk.com/shoomgroup,Unknown,Пермь,29.10
-1644140,Василий Егоров,friend_of_friend,male,vk.com/v.egorov,Unknown,Unknown,Unknown
+1644140,Ольга Пищальникова,friend_of_friend,female,vk.com/v.egorov,Unknown,Хасавюрт,Unknown
 1671678,Сергей Шкарупа,friend_of_friend,male,vk.com/shkaruparty,Unknown,Москва,19.10.1986
 1680552,Евгения Филиппенко,friend_of_friend,female,vk.com/filippenko_evgeniya,Unknown,Пермь,2.7
 1693824,Макс Шаповалов,friend_of_friend,male,vk.com/makz_shapovalov,Unknown,Пермь,Unknown
@@ -3285,6 +3285,7 @@ id,label,type,sex,domain,country,city,bdate
 360899,Наталья Шушунова,friend_of_friend,female,vk.com/id360899,Unknown,Москва,Unknown
 391581,Михаил Беленко,friend_of_friend,male,vk.com/mishabelenko,Unknown,Москва,7.7.1987
 391792,Дарья Югова,friend_of_friend,female,vk.com/id391792,Unknown,Краснодар,Unknown
+409676,Ксения Барынина,friend_of_friend,female,vk.com/barynina,Unknown,Пермь,18.5
 467643,Константин Кякинен,friend_of_friend,male,vk.com/id467643,Unknown,Пермь,17.3.1975
 470004,Эдуард Гаупт,friend_of_friend,male,vk.com/haupt_star,Unknown,Москва,3.9.1984
 473247,Роман Васильевич,friend_of_friend,male,vk.com/id473247,Unknown,Пермь,Unknown
@@ -3327,6 +3328,7 @@ id,label,type,sex,domain,country,city,bdate
 1073680,Дмитрий Прокуроров,friend_of_friend,male,vk.com/dimberg,Unknown,Пермь,7.5.1978
 1077461,Мария Ковальчук,friend_of_friend,female,vk.com/kovalchuk59,Unknown,Пермь,Unknown
 1084257,Алла Мальцева,friend_of_friend,female,vk.com/alla_fc,Unknown,Киров,17.10
+1094855,Елена Бахур,friend_of_friend,female,vk.com/helena_bakhur,Unknown,Пермь,Unknown
 1112704,Наталия Давыдова,friend_of_friend,female,vk.com/natalya_aaaa,Unknown,Unknown,28.2
 1129908,Александра Агишева,friend_of_friend,female,vk.com/id1129908,Unknown,Genève,17.9.1988
 1162742,Дима Чёрный,friend_of_friend,male,vk.com/qujjoz,Unknown,Москва,20.5
@@ -3446,8 +3448,6 @@ id,label,type,sex,domain,country,city,bdate
 2434619,Елизавета Созинова,friend_of_friend,female,vk.com/elizaveta.sozinova,Unknown,Пермь,Unknown
 2446155,Таня Кагарманова,friend_of_friend,female,vk.com/id2446155,Unknown,Москва,11.11.1976
 2455506,Максим Лобанов,friend_of_friend,male,vk.com/lobanovms,Unknown,Сочи,28.8.1983
-2456379,Константин Завалин,friend_of_friend,male,vk.com/zavalintut,Unknown,Пермь,15.12.1979
-2463673,Константин Банзин,friend_of_friend,male,vk.com/bbbanzay,Unknown,Unknown,Unknown
 32410,Андрей Богданцев,friend_of_friend,male,vk.com/a.bogdantsev,Unknown,Санкт-Петербург,Unknown
 48884,Nastya Kudryavtseva,friend_of_friend,female,vk.com/team_depp,Unknown,Москва,Unknown
 49325,Татьяна Виноградова,friend_of_friend,female,vk.com/id49325,Unknown,Санкт-Петербург,2.1.1986
@@ -3725,7 +3725,7 @@ id,label,type,sex,domain,country,city,bdate
 113388882,Дмитрий Курнаков,friend_of_friend,male,vk.com/id113388882,Unknown,Unknown,Unknown
 118747112,Вячеслав Сенников,friend_of_friend,male,vk.com/id118747112,Unknown,Пермь,Unknown
 133665199,Татьяна Ревуцкая,friend_of_friend,female,vk.com/id133665199,Unknown,Пермь,24.4.1967
-153876772,Anastasia Ревуцкая,friend_of_friend,female,vk.com/id153876772,Unknown,Краснодар,Unknown
+153876772,An Pev,friend_of_friend,female,vk.com/id153876772,Unknown,Краснодар,Unknown
 155970573,Денис Сысолятин,friend_of_friend,male,vk.com/id155970573,Unknown,Пермь,7.2
 186154954,Юлия Пронюк,friend_of_friend,female,vk.com/id186154954,Unknown,Пермь,26.11.1957
 216940818,Наталья Пикулева,friend_of_friend,female,vk.com/natalia.pikuleva,Unknown,Москва,20.4
@@ -4830,7 +4830,7 @@ id,label,type,sex,domain,country,city,bdate
 1988051,Марта Исакова,friend_of_friend,female,vk.com/id1988051,Unknown,Москва,22.2
 1997775,Вячеслав Рюмин,friend_of_friend,male,vk.com/id1997775,Unknown,Санкт-Петербург,14.8.1989
 1998702,Юрий Шильников,friend_of_friend,male,vk.com/fredguitarist,Unknown,Москва,Unknown
-2001118,Татьяна Шаманина,friend_of_friend,female,vk.com/shanyana,Unknown,Москва,18.10
+2001118,Таня Шаманина,friend_of_friend,female,vk.com/shamaninamusic,Unknown,Москва,18.10
 2025541,Ksenia Lihacheva,friend_of_friend,female,vk.com/kslihacheva,Unknown,Москва,29.7
 2026928,Pavel Pakhomkin,friend_of_friend,male,vk.com/cameron_paul,Unknown,Москва,Unknown
 2030779,Илья Лунёв,friend_of_friend,male,vk.com/id2030779,Unknown,Москва,12.11
@@ -5584,7 +5584,7 @@ id,label,type,sex,domain,country,city,bdate
 56463520,Вера Исаева,friend_of_friend,female,vk.com/id56463520,Unknown,Мирный,3.11.1994
 57071541,Кирилл Гудков,friend_of_friend,male,vk.com/gudkov.kirill,Unknown,Москва,28.5
 57365222,Ксения Аланго,friend_of_friend,female,vk.com/alango,Unknown,Unknown,19.11
-58209801,Дарья Кардашова,friend_of_friend,female,vk.com/id58209801,Unknown,Пермь,18.8
+58209801,Дарья Кардашова,friend_of_friend,female,vk.com/id58209801,Unknown,Пермь,Unknown
 58230603,Света Тимофеева,friend_of_friend,female,vk.com/id19richik95,Unknown,Ижевск,19.1
 59029950,Антон Калинин,friend_of_friend,male,vk.com/id59029950,Unknown,Unknown,11.8.1995
 59353339,Julya Terentieva,friend_of_friend,female,vk.com/kinder_laery,Unknown,Unknown,Unknown
@@ -5655,7 +5655,7 @@ id,label,type,sex,domain,country,city,bdate
 118749138,Денис Клишин,friend_of_friend,male,vk.com/id118749138,Unknown,Магнитогорск,16.8
 119113300,Vlad Son,friend_of_friend,male,vk.com/id119113300,Unknown,Кореновск,6.7
 122817310,Анастасия Юшкова,friend_of_friend,female,vk.com/yu_stacy,Unknown,Unknown,Unknown
-133038575,Александр Иванов,friend_of_friend,male,vk.com/mr_66s,Unknown,Unknown,Unknown
+133038575,Александр Иванов,friend_of_friend,male,vk.com/id133038575,Unknown,Unknown,Unknown
 133074898,Евгений Кудряшов,friend_of_friend,male,vk.com/kudryashov79,Unknown,Луганск,28.10.1979
 133538784,Юрий Улитин,friend_of_friend,male,vk.com/id133538784,Unknown,Unknown,21.1
 134362665,Алёна Тимофеева,friend_of_friend,female,vk.com/alenaaat,Unknown,Челябинск,Unknown
@@ -5829,7 +5829,7 @@ id,label,type,sex,domain,country,city,bdate
 42805317,Натали Зубенина,friend_of_friend,female,vk.com/natalyzu,Unknown,Пермь,Unknown
 43305889,Наталья Колодзей,friend_of_friend,female,vk.com/id43305889,Unknown,Пермь,15.3.1954
 44963053,Елена Меренюк,friend_of_friend,female,vk.com/id44963053,Unknown,Москва,21.1
-45054132,Ирина Демешко,friend_of_friend,female,vk.com/trisha1710,Unknown,Пермь,17.10
+45054132,Ирина Демешко,friend_of_friend,female,vk.com/trishabraun,Unknown,Пермь,17.10
 45356904,Артём Ворошилов,friend_of_friend,male,vk.com/divim,Unknown,Пермь,Unknown
 45789230,Юля Немтинова,friend_of_friend,female,vk.com/id45789230,Unknown,Пермь,22.5
 45799447,Екатерина Братчикова,friend_of_friend,female,vk.com/id45799447,Unknown,Unknown,24.7
@@ -6102,7 +6102,7 @@ id,label,type,sex,domain,country,city,bdate
 3009256,Денис Иванников,friend_of_friend,male,vk.com/ivannikovdv,Unknown,Unknown,Unknown
 3026749,Мария Ватуева,friend_of_friend,female,vk.com/mashylaradio,Unknown,Москва,21.10
 3026989,Игорь Зайцев,friend_of_friend,female,vk.com/zayzilla,Unknown,Unknown,17.6
-3028915,Альфия Загитова,friend_of_friend,female,vk.com/alfixx,Unknown,Санкт-Петербург,Unknown
+3028915,Альфия Загитова,friend_of_friend,female,vk.com/alfixx,Unknown,Санкт-Петербург,21.1
 3055108,Владислав Гаймальдинов,friend_of_friend,male,vk.com/id3055108,Unknown,Санкт-Петербург,18.7.1984
 3068243,Ольга Александровна,friend_of_friend,female,vk.com/id3068243,Unknown,Москва,24.3
 3082106,София Турагент,friend_of_friend,female,vk.com/s.turagent,Unknown,Балашиха,25.3
@@ -6127,6 +6127,7 @@ id,label,type,sex,domain,country,city,bdate
 3429567,Ирина Денисенко,friend_of_friend,female,vk.com/id3429567,Unknown,Москва,12.12.1985
 3442676,Наира Хачатурянц,friend_of_friend,female,vk.com/bagirkaya,Unknown,San Diego,Unknown
 3445991,Илья Кротов,friend_of_friend,male,vk.com/krottovv,Unknown,Ярославль,7.10.1990
+3487285,Альберт Мкртчян,friend_of_friend,male,vk.com/albert_mkrtchian,Unknown,Санкт-Петербург,6.3
 3493924,Констант Ин,friend_of_friend,male,vk.com/totalitarizm,Unknown,Москва,26.12.1985
 3499862,Тигран Петросян,friend_of_friend,male,vk.com/tigranpetrosyan,Unknown,Москва,10.3
 3503432,Ольга Попкова,friend_of_friend,female,vk.com/o.a.popkova,Unknown,Москва,4.2.1963
@@ -6175,7 +6176,6 @@ id,label,type,sex,domain,country,city,bdate
 4411599,Айвар Левенбук,friend_of_friend,male,vk.com/levenbook,Unknown,Москва,10.4.1985
 4414634,Василий Ушков,friend_of_friend,male,vk.com/id4414634,Unknown,Unknown,26.8.1977
 4424202,Наталья Кощеева,friend_of_friend,female,vk.com/kosheevan,Unknown,Киров,5.4
-4487474,Марианна Алкеева,friend_of_friend,female,vk.com/id4487474,Unknown,Unknown,13.5
 953207,Наталья Антонова,friend_of_friend,female,vk.com/id953207,Unknown,Пермь,4.1
 1688238,Сергей Калинин,friend_of_friend,male,vk.com/signaller,Unknown,Unknown,Unknown
 2345459,Дмитрий Чунжин,friend_of_friend,male,vk.com/de_chunzhin,Unknown,Пермь,23.8
@@ -6614,7 +6614,7 @@ id,label,type,sex,domain,country,city,bdate
 15758560,Andrey Maltsev,friend_of_friend,male,vk.com/popersmen,Unknown,Новосибирск,19.11.1990
 16013301,Екатерина Благодарёва,friend_of_friend,female,vk.com/katerinadikun83,Unknown,Новомосковск,13.7
 16271021,Ростислав Гнилицкий,friend_of_friend,male,vk.com/id16271021,Unknown,Unknown,30.7.1945
-16281997,Зарина Хугаева,friend_of_friend,female,vk.com/id16281997,Unknown,Владикавказ,Unknown
+16281997,Зарина Хугаева,friend_of_friend,female,vk.com/id16281997,Unknown,Владикавказ,9.6
 16405807,Карина Игоревна,friend_of_friend,female,vk.com/karysid,Unknown,Новомосковск,8.3.1991
 16413581,Елена Демидова,friend_of_friend,female,vk.com/id16413581,Unknown,Новомосковск,Unknown
 16485986,Снежана Яковлева,friend_of_friend,female,vk.com/id16485986,Unknown,Новомосковск,22.1
@@ -6963,7 +6963,7 @@ id,label,type,sex,domain,country,city,bdate
 58734245,Миа Ким,friend_of_friend,female,vk.com/luulaa,Unknown,Санкт-Петербург,4.7
 59059927,Алина Тихонова,friend_of_friend,female,vk.com/tikhonovalina,Unknown,Санкт-Петербург,22.8
 61093841,Оксана Юрковская,friend_of_friend,female,vk.com/antaiperson,Unknown,Санкт-Петербург,14.7
-61821653,Артём Касимов,friend_of_friend,male,vk.com/nenarivaysa,Unknown,Пинск,11.1
+61821653,DELETED,friend_of_friend,male,vk.com/id61821653,Unknown,Пинск,11.1
 62114217,Александр Блок,friend_of_friend,male,vk.com/dont_worry_ukhankin,Unknown,Железногорск,9.1.1999
 62381307,Геннадий Кузнецов,friend_of_friend,male,vk.com/gena2002,Unknown,Unknown,12.5
 62773278,Григорий Мальков,friend_of_friend,male,vk.com/malkof_g,Unknown,Санкт-Петербург,22.3
@@ -7066,7 +7066,7 @@ id,label,type,sex,domain,country,city,bdate
 138418615,Виктория Куницына,friend_of_friend,female,vk.com/mrrkins,Unknown,Unknown,17.4.2001
 138738879,Егор Харитонов,friend_of_friend,male,vk.com/eg0r_p0m1d0r,Unknown,Санкт-Петербург,8.5
 138840258,Андрей Терещенко,friend_of_friend,male,vk.com/id138840258,Unknown,Санкт-Петербург,23.7
-139164011,Анна Мироненко,friend_of_friend,female,vk.com/id139164011,Unknown,Unknown,3.7.2002
+139164011,Анна Горожанцева,friend_of_friend,female,vk.com/id139164011,Unknown,Unknown,3.7.2002
 139171666,Саша Репин,friend_of_friend,male,vk.com/off_big_boy_off,Unknown,Санкт-Петербург,Unknown
 139218108,Анна Подлевская,friend_of_friend,female,vk.com/apodlevskaya,Unknown,Санкт-Петербург,31.8.2000
 139825486,Лера Князькова,friend_of_friend,female,vk.com/id139825486,Unknown,Великий Новгород,28.10.1999
@@ -7194,7 +7194,7 @@ id,label,type,sex,domain,country,city,bdate
 60058172,Сергей Лукин,friend_of_friend,male,vk.com/lukaser,Unknown,Москва,7.5.1971
 62921941,Залина Якупова,friend_of_friend,female,vk.com/dobrotazalina,Unknown,Уфа,8.10.1986
 66165533,Альфия Аксабаева,friend_of_friend,female,vk.com/id66165533,Unknown,Медногорск,13.1
-74403802,Ведущая Нина-Московская,friend_of_friend,female,vk.com/ninamoskva18,Unknown,Москва,18.7
+74403802,Нина Московская,friend_of_friend,female,vk.com/ninamoskva18,Unknown,Москва,18.7
 78595354,Иксанова Гульдар,friend_of_friend,female,vk.com/igh1985,Unknown,Уфа,Unknown
 79334660,Екатерина Куприянова,friend_of_friend,female,vk.com/ekaterinakupriyanova,Unknown,Уфа,21.2
 82525890,Леонид Свинолупов,friend_of_friend,male,vk.com/leosveo,Unknown,Уфа,11.3
@@ -7528,7 +7528,7 @@ id,label,type,sex,domain,country,city,bdate
 6149383,Павел Матвеев,friend_of_friend,male,vk.com/pasha_matveev,Unknown,Unknown,Unknown
 7628199,Мари Дав,friend_of_friend,female,vk.com/dv.mari,Unknown,Unknown,10.4
 7669963,Yunir Bagautdinov,friend_of_friend,male,vk.com/bagautdynov,Unknown,Unknown,7.8
-8390129,Анастасия Кеда,friend_of_friend,female,vk.com/keda_anastasia,Unknown,Москва,19.12.1996
+8390129,Анастасия Кеда,friend_of_friend,female,vk.com/keda_anastasia,Unknown,Москва,Unknown
 8789237,Мария Воронина,friend_of_friend,female,vk.com/malina_mary,Unknown,Москва,23.7.1995
 8825137,Роман Максимов,friend_of_friend,male,vk.com/nohcho,Unknown,Москва,Unknown
 9039825,Арина Макарова,friend_of_friend,female,vk.com/idmakarinka,Unknown,Москва,28.7
@@ -7888,7 +7888,6 @@ id,label,type,sex,domain,country,city,bdate
 1088469,Мария Леонтьева,friend_of_friend,female,vk.com/marielee,Unknown,Пермь,3.1.1987
 1090445,Анастасия Аверина,friend_of_friend,female,vk.com/anastasiia_av,Unknown,Пермь,22.1.1989
 1092722,Sashka Kartashov,friend_of_friend,male,vk.com/sashkakartashov,Unknown,Санкт-Петербург,14.9
-1094855,Елена Бахур,friend_of_friend,female,vk.com/helena_bakhur,Unknown,Пермь,Unknown
 1098342,Миша Заиканов,friend_of_friend,male,vk.com/misha_za,Unknown,Unknown,Unknown
 1100238,Ольга Байдина,friend_of_friend,female,vk.com/ololo_shk,Unknown,Пермь,Unknown
 1112762,Марина Есюнина,friend_of_friend,female,vk.com/mesyunina,Unknown,Пермь,Unknown
@@ -8021,7 +8020,7 @@ id,label,type,sex,domain,country,city,bdate
 285583215,Ангелина Романовская,friend_of_friend,female,vk.com/angel_ok_real,Unknown,Киев,22.12
 286018473,Юлиана Югова,friend_of_friend,female,vk.com/id286018473,Unknown,Пермь,10.8
 286954265,Максим Златин,friend_of_friend,male,vk.com/id286954265,Unknown,Пермь,27.8
-289328632,Степан Ёршиков,friend_of_friend,male,vk.com/id289328632,Unknown,Unknown,20.4.2001
+289328632,Степан Ёршиков,friend_of_friend,male,vk.com/id289328632,Unknown,Мензелинск,20.4.2001
 293220809,Рома Батуев,friend_of_friend,male,vk.com/id293220809,Unknown,Пермь,14.8
 294024319,София Пепеляева,friend_of_friend,female,vk.com/id294024319,Unknown,Unknown,Unknown
 296621037,Данил Катаев,friend_of_friend,male,vk.com/id296621037,Unknown,Unknown,14.7.1983
@@ -9463,7 +9462,7 @@ id,label,type,sex,domain,country,city,bdate
 6252563,Алексей Семакин,friend_of_friend,male,vk.com/id6252563,Unknown,Пермь,29.10.1984
 6275650,Павел Шпадин,friend_of_friend,male,vk.com/id6275650,Unknown,Пермь,26.12.1982
 6403094,Анастасия Рожина,friend_of_friend,female,vk.com/nastyashmackowa,Unknown,Пермь,22.6
-6460648,Наталья Комета,friend_of_friend,female,vk.com/n.kometa,Unknown,Unknown,5.11
+6460648,Наталья Комета,friend_of_friend,female,vk.com/n.kometa,Unknown,Unknown,Unknown
 6514304,Елизавета Худорожкова,friend_of_friend,female,vk.com/redfoxperm,Unknown,Пермь,20.2
 6744854,Наталья Мавлютова,friend_of_friend,female,vk.com/abc_yea,Unknown,Unknown,Unknown
 6801411,Катерина Искакова,friend_of_friend,female,vk.com/id6801411,Unknown,Пермь,Unknown
@@ -9823,7 +9822,7 @@ id,label,type,sex,domain,country,city,bdate
 6042924,Lana Claire,friend_of_friend,female,vk.com/lanaclaire,Unknown,Калининград,Unknown
 6082310,Сергей Писаренко,friend_of_friend,male,vk.com/id6082310,Unknown,Омск,30.12.1982
 8341051,Алевтина Шаталова,friend_of_friend,female,vk.com/alevtenka,Unknown,Unknown,10.8
-8397253,Алена Полякова,friend_of_friend,female,vk.com/aliona_polyakova,Unknown,Родники,28.6
+8397253,Алена Полякова,friend_of_friend,female,vk.com/aliona_polyakova,Unknown,Иваново,28.6
 8675315,Саша Бабаев,friend_of_friend,male,vk.com/id8675315,Unknown,Москва,26.5.1949
 9158152,Ирина Власова,friend_of_friend,female,vk.com/id9158152,Unknown,Омск,14.10.1988
 10722498,Olga Golovanova,friend_of_friend,female,vk.com/id10722498,Unknown,Омск,2.10
@@ -9997,7 +9996,7 @@ id,label,type,sex,domain,country,city,bdate
 152121217,Сергей Прищепа,friend_of_friend,male,vk.com/sergey_prishepa,Unknown,Санкт-Петербург,Unknown
 152733358,Маргарита Широкова,friend_of_friend,female,vk.com/id152733358,Unknown,Омский,9.7.1948
 153243984,Виталий Роде,friend_of_friend,male,vk.com/id153243984,Unknown,Омск,10.1
-153777748,Елена Ильина,friend_of_friend,female,vk.com/leninbox17,Unknown,Омск,21.11
+153777748,Елена Ильина,friend_of_friend,female,vk.com/lena__v__dele,Unknown,Омск,21.11
 154741380,Кирилл Верниковский,friend_of_friend,male,vk.com/id154741380,Unknown,Омск,19.2
 154741901,Татьяна Хандешина,friend_of_friend,female,vk.com/id154741901,Unknown,Unknown,Unknown
 157348359,Дима Осинцев,friend_of_friend,male,vk.com/dimonqs,Unknown,Омск,17.11
@@ -10333,6 +10332,7 @@ id,label,type,sex,domain,country,city,bdate
 17645380,Святослав Борисов,friend_of_friend,male,vk.com/s.borisov1988,Unknown,Москва,30.11.1988
 18019761,Nastya Belova,friend_of_friend,female,vk.com/id18019761,Unknown,Москва,22.5
 18038791,Елизавета Гилева,friend_of_friend,female,vk.com/egileva,Unknown,Пермь,6.7.1996
+18338938,Алина Барышникова,friend_of_friend,female,vk.com/alinabv,Unknown,Пермь,9.8.1994
 18611701,Леночка Olsen,friend_of_friend,female,vk.com/l.olsen,Unknown,Пермь,17.12.1992
 18899821,Юлия Поповцева,friend_of_friend,female,vk.com/popo93,Unknown,Пермь,7.10
 18921335,Александр Чудинов,friend_of_friend,male,vk.com/chuddinov,Unknown,Пермь,21.7
@@ -10408,7 +10408,6 @@ id,label,type,sex,domain,country,city,bdate
 31898435,Лена Телятник,friend_of_friend,female,vk.com/ptenchik999,Unknown,Пермь,Unknown
 32407678,Евгений Русин,friend_of_friend,male,vk.com/id32407678,Unknown,Пермь,26.11
 32925756,Катя Бирюкова,friend_of_friend,female,vk.com/ekaterina_biriukova,Unknown,Санкт-Петербург,13.12
-33453334,Влада Белаш,friend_of_friend,female,vk.com/pavlova.vlada,Unknown,Пермь,8.5
 552569,Ольга Некрасова,friend_of_friend,female,vk.com/id552569,Unknown,Пермь,2.2
 730809,Настя Саввина,friend_of_friend,female,vk.com/nastya_savvina_ph,Unknown,Unknown,Unknown
 1212510,Саша Волчек,friend_of_friend,female,vk.com/id1212510,Unknown,Москва,29.3.1989
@@ -11128,7 +11127,7 @@ id,label,type,sex,domain,country,city,bdate
 9627517,Роман Ведерников,friend_of_friend,male,vk.com/rvedrov,Unknown,Пермь,13.11.1986
 9932852,Михаил Толоконников,friend_of_friend,male,vk.com/mishan_mishan,Unknown,Пермь,21.11
 9933614,Елена Климкович,friend_of_friend,female,vk.com/id9933614,Unknown,Пермь,8.6
-9954618,Ольга Ахметзянова-Профориентолог,friend_of_friend,female,vk.com/olgaahmet,Unknown,Пермь,Unknown
+9954618,Ольга Ахметзянова,friend_of_friend,female,vk.com/olgaahmet,Unknown,Пермь,Unknown
 10473058,Алексей Дружинин,friend_of_friend,male,vk.com/alexei_druzhinin,Unknown,Пермь,26.10.1993
 11743218,Антонина Федорищева-Новикова,friend_of_friend,female,vk.com/toniyaf,Unknown,Пермь,Unknown
 12545919,Елена Колесникова,friend_of_friend,female,vk.com/l.grobova,Unknown,Пермь,Unknown
@@ -11338,6 +11337,7 @@ id,label,type,sex,domain,country,city,bdate
 63275781,Евгения Землякова,friend_of_friend,female,vk.com/retdesigner,Unknown,Волгоград,23.3
 63579559,Анастасия Смыкова,friend_of_friend,female,vk.com/anastasia_smykova,Unknown,Тюмень,19.7.1998
 65609503,Вера Седова,friend_of_friend,female,vk.com/verasedova,Unknown,Нижний Новгород,9.8.1980
+68992242,Ольга Рапацевич,friend_of_friend,female,vk.com/olgarapatsevich,Unknown,Москва,28.1
 72431104,Ани Минасян,friend_of_friend,female,vk.com/animinasy,Unknown,Burbank,24.12
 72965910,Наталья Бурматова,friend_of_friend,female,vk.com/id72965910,Unknown,Тюмень,7.11
 73393028,Екатерина Иванова,friend_of_friend,female,vk.com/id73393028,Unknown,Москва,28.6.2000
@@ -11500,7 +11500,6 @@ id,label,type,sex,domain,country,city,bdate
 188722116,Полина Парфенова,friend_of_friend,female,vk.com/posyamee,Unknown,Волгоград,Unknown
 189314127,Сергей Бритарёв,friend_of_friend,male,vk.com/id189314127,Unknown,Москва,21.7
 189512193,Лада Чертина,friend_of_friend,female,vk.com/ladachertina,Unknown,Москва,1.12
-190827318,Karma Di,friend_of_friend,female,vk.com/karmadi,Unknown,Санкт-Петербург,1.7
 6468707,Екатерина Гуляева,friend_of_friend,female,vk.com/id6468707,Unknown,Пермь,14.9
 6685820,Рома Булдашов,friend_of_friend,male,vk.com/romash59,Unknown,Москва,31.5
 13382960,DELETED,friend_of_friend,female,vk.com/id13382960,Unknown,Москва,27.5
@@ -12284,7 +12283,7 @@ id,label,type,sex,domain,country,city,bdate
 94147728,Екатерина Титова,friend_of_friend,female,vk.com/id94147728,Unknown,Пермь,17.3
 97851931,Мария Сыромукова,friend_of_friend,female,vk.com/msyromukova,Unknown,Пермь,10.1
 98565275,Анна Царёва,friend_of_friend,female,vk.com/anyaanyaaanya,Unknown,Unknown,Unknown
-99415957,Виктория Гинина,friend_of_friend,female,vk.com/gininavika,Unknown,Пермь,31.5
+99415957,Виктория Гинина,friend_of_friend,female,vk.com/gininavika,Unknown,Пермь,Unknown
 100946048,Никита Баженов,friend_of_friend,male,vk.com/id100946048,Unknown,Пермь,13.10
 102738811,Максим Исаев,friend_of_friend,male,vk.com/m.isaev97,Unknown,Пермь,5.5.2002
 103475636,Ира Жихарева,friend_of_friend,female,vk.com/izhikhareva,Unknown,Unknown,Unknown
@@ -12539,6 +12538,7 @@ id,label,type,sex,domain,country,city,bdate
 144197478,Давид Кардава,friend_of_friend,male,vk.com/dkardava,Unknown,Калуга,11.7
 144516366,Александр Коневских,friend_of_friend,male,vk.com/avkperm,Unknown,Пермь,9.1
 144663439,Даша Девяткова,friend_of_friend,female,vk.com/aayradd,Unknown,Пермь,25.10
+144973971,Марина Медведева,friend_of_friend,female,vk.com/marmedva,Unknown,Unknown,26.9
 145120488,Максим Попов,friend_of_friend,male,vk.com/makcemen,Unknown,Емва,20.6.1999
 145124860,Елена Киселева,friend_of_friend,female,vk.com/id145124860,Unknown,Budapest,10.4.1972
 145459890,Валерия Клакевич,friend_of_friend,female,vk.com/klakevvich,Unknown,Пермь,5.5
@@ -12550,7 +12550,6 @@ id,label,type,sex,domain,country,city,bdate
 147993446,Инна Наговицына,friend_of_friend,female,vk.com/zolotka59,Unknown,Пермь,8.10
 150217459,Соня Няшина,friend_of_friend,female,vk.com/sonyanyashina,Unknown,Unknown,9.9.1999
 150746751,Маша Мартынова,friend_of_friend,female,vk.com/mashenkamarta,Unknown,Unknown,27.6.2003
-150829508,Данил Киреев,friend_of_friend,male,vk.com/dkv59,Unknown,Санкт-Петербург,Unknown
 436111,Андрей Колпаков,friend_of_friend,male,vk.com/lionel,Unknown,Москва,26.5.1985
 546811,Nesty Odina,friend_of_friend,female,vk.com/nestyodina,Unknown,Москва,6.10
 1239891,Minya Klots,friend_of_friend,male,vk.com/klotsm,Unknown,Пермь,Unknown
@@ -12937,6 +12936,7 @@ id,label,type,sex,domain,country,city,bdate
 147984194,Имануэль Ханюков,friend_of_friend,male,vk.com/id147984194,Unknown,Пермь,8.9
 148316376,Алексей Прокофьев,friend_of_friend,male,vk.com/aprokofyev93,Unknown,Тверь,17.3.2003
 148561247,Григорий Друженьков,friend_of_friend,male,vk.com/bigboyblack,Unknown,Екатеринбург,22.4.2002
+149675394,Анна Букреева,friend_of_friend,female,vk.com/bkreeva,Unknown,Москва,3.11
 150493588,Мария Новикова,friend_of_friend,female,vk.com/20maria02,Unknown,Москва,16.6.2002
 151115035,Соня Шаврина,friend_of_friend,female,vk.com/sshavrinaa,Unknown,Пермь,7.10
 151349015,Анастасия Тютикова,friend_of_friend,female,vk.com/anastaa_sia,Unknown,Пермь,6.12.2001
@@ -13048,7 +13048,6 @@ id,label,type,sex,domain,country,city,bdate
 226277160,Никита Воронков,friend_of_friend,male,vk.com/n.voronkoff,Unknown,Воронеж,15.12
 226312878,Антон Лебедев,friend_of_friend,male,vk.com/lebant77,Unknown,Unknown,27.10
 226516571,Никита Белоусов,friend_of_friend,male,vk.com/nekitbelousov99,Unknown,Пермь,15.11.1999
-228261887,Аня Пелевина,friend_of_friend,female,vk.com/pelevinaaaaaaa,Unknown,Unknown,Unknown
 2061732,Zema Zemkin,friend_of_friend,male,vk.com/id2061732,Unknown,Баку,7.2.1983
 2774128,Екатерина Муслахова,friend_of_friend,female,vk.com/id2774128,Unknown,Пермь,29.5
 2970873,Ирина Коробейникова,friend_of_friend,female,vk.com/id2970873,Unknown,Краснодар,8.12.1984
@@ -13381,7 +13380,7 @@ id,label,type,sex,domain,country,city,bdate
 145952745,Полина Лузина,friend_of_friend,female,vk.com/p.luzina,Unknown,Пермь,28.2.2001
 146105950,Максим Петров,friend_of_friend,male,vk.com/effectaad,Unknown,Санкт-Петербург,12.6.2003
 146184743,Алина Хамзина,friend_of_friend,female,vk.com/alina_hamzina,Unknown,Пермь,14.10
-146807035,Дарья Мазарова,friend_of_friend,female,vk.com/damoremur,Unknown,Санкт-Петербург,23.2.2001
+146807035,Дарья Мазарова,friend_of_friend,female,vk.com/damoremur,Unknown,Санкт-Петербург,23.2
 146887850,DELETED,friend_of_friend,male,vk.com/id146887850,Unknown,Unknown,Unknown
 147173293,Вероника Астахова,friend_of_friend,female,vk.com/meowmeowmey,Unknown,Санкт-Петербург,5.3
 147534524,Андрей Небогатиков,friend_of_friend,male,vk.com/mr.andr01,Unknown,Пермь,22.5.1998
@@ -13460,7 +13459,7 @@ id,label,type,sex,domain,country,city,bdate
 196738591,Даниил Селин,friend_of_friend,male,vk.com/sh4r1ngan,Unknown,Пермь,31.5.2001
 196914133,Алиса Филиппова,friend_of_friend,female,vk.com/id196914133,Unknown,Москва,17.12.1999
 198475197,Мария Русских,friend_of_friend,female,vk.com/maryarusso,Unknown,Unknown,16.5
-198556021,Анна Епишина,friend_of_friend,female,vk.com/id198556021,Unknown,Смоленск,6.6.2002
+198556021,Анна Казакова,friend_of_friend,female,vk.com/id198556021,Unknown,Смоленск,6.6.2002
 198879272,Салех Казимов,friend_of_friend,male,vk.com/azesaleh,Unknown,Санкт-Петербург,2.7.2000
 199434944,Андрей Анчуткин,friend_of_friend,male,vk.com/krasavelchik_men,Unknown,Санкт-Петербург,18.9.2001
 199530579,Наталья Гончарова,friend_of_friend,female,vk.com/id199530579,Unknown,Unknown,Unknown
@@ -13823,6 +13822,7 @@ id,label,type,sex,domain,country,city,bdate
 104973374,Поля Отмахова,friend_of_friend,female,vk.com/pollllly_p,Unknown,Unknown,23.10
 105091163,Юлия Макарова,friend_of_friend,female,vk.com/juliamakarova59,Unknown,Пермь,20.9
 106964038,Andrea Barone,friend_of_friend,male,vk.com/rockobarons,Unknown,Agrigento,17.7.1990
+107111518,Денис Денисов,friend_of_friend,male,vk.com/den159159,Unknown,Unknown,13.6.2000
 107642606,Влад Пономарев,friend_of_friend,male,vk.com/ponomarevvlad,Unknown,Unknown,17.12.1997
 109371981,Валерия Звяга,friend_of_friend,female,vk.com/id109371981,Unknown,Пермь,24.7.2000
 109582038,Яна Бурнышева,friend_of_friend,female,vk.com/id109582038,Unknown,Пермь,18.2.1999
@@ -13903,7 +13903,6 @@ id,label,type,sex,domain,country,city,bdate
 147459772,Владимир Зверь,friend_of_friend,male,vk.com/id_lllllllll,Unknown,Пермь,Unknown
 147711519,Илья Пантелеев,friend_of_friend,male,vk.com/id147711519,Unknown,Unknown,14.5
 147831342,Дарья Арбузова,friend_of_friend,female,vk.com/lysenochk_aa,Unknown,Пермь,18.5
-147948228,Denis Maltsev,friend_of_friend,male,vk.com/denis_25_15,Unknown,Пермь,26.11.1999
 181324,Irina Shutegova,friend_of_friend,female,vk.com/isargsyan,Unknown,Unknown,23.6
 981966,Цветана Омельчук,friend_of_friend,female,vk.com/tsvetana.omelchuk,Unknown,Unknown,Unknown
 1990111,Алексей Омельчук,friend_of_friend,male,vk.com/kondoctor,Unknown,Новосибирск,2.7.1985
@@ -14511,7 +14510,7 @@ id,label,type,sex,domain,country,city,bdate
 34085022,Сона Степанянц,friend_of_friend,female,vk.com/doctorsona,Unknown,Москва,22.12
 34085889,Глеб Лопатин,friend_of_friend,male,vk.com/gleb_tin,Unknown,Москва,14.5
 34221979,Али Сонни,friend_of_friend,female,vk.com/whitegoddness,Unknown,Санкт-Петербург,18.3
-34250406,Дарья Никулаева,friend_of_friend,female,vk.com/dashamadeinrasha,Unknown,Unknown,2.10
+34250406,Дарья Никулаева,friend_of_friend,female,vk.com/dashamadeinrasha,Unknown,Unknown,Unknown
 34465078,Настёнка Бадьина,friend_of_friend,female,vk.com/id34465078,Unknown,Москва,21.3.1994
 34612576,Ульяна Кульман,friend_of_friend,female,vk.com/id34612576,Unknown,Unknown,14.1
 35776644,Егор Решетов,friend_of_friend,male,vk.com/demshiza_ru,Unknown,Москва,30.3
@@ -14775,7 +14774,7 @@ id,label,type,sex,domain,country,city,bdate
 37302541,Вика Журавлева,friend_of_friend,female,vk.com/viktorine,Unknown,Москва,11.8.1999
 37326698,Елена Ткачук,friend_of_friend,female,vk.com/lenochkamur,Unknown,Москва,Unknown
 37476439,Карина Галицкая,friend_of_friend,female,vk.com/galitss,Unknown,Unknown,14.1
-38237379,Влад Аникин,friend_of_friend,male,vk.com/no_byte,Unknown,Рязань,23.3
+38237379,Влад Аникин,friend_of_friend,male,vk.com/no_byte,Unknown,Рязань,24.3
 38530121,Александра Белковская,friend_of_friend,female,vk.com/id38530121,Unknown,Москва,10.9.1991
 40179665,Настя Волина,friend_of_friend,female,vk.com/anastasia_volina,Unknown,Санкт-Петербург,14.7
 40338302,Владислав Артимович,friend_of_friend,male,vk.com/valdsax,Unknown,Орехово-Зуево,5.9
@@ -15116,6 +15115,7 @@ id,label,type,sex,domain,country,city,bdate
 2236544,Даниил Никитин,friend_of_friend,male,vk.com/dj_starkoff,Unknown,Unknown,19.6
 2251602,Дашка Модова,friend_of_friend,female,vk.com/fillefevrier,Unknown,Пермь,Unknown
 2300249,Евгения Сыстерова,friend_of_friend,female,vk.com/jane_snowme,Unknown,Unknown,12.11
+2456379,Константин Завалин,friend_of_friend,male,vk.com/zavalintut,Unknown,Пермь,15.12.1979
 2477257,Яна Поспелова,friend_of_friend,female,vk.com/id2477257,Unknown,Пермь,12.3
 2539012,Alisa Volosnikova,friend_of_friend,female,vk.com/alisa_volosnikova,Unknown,Unknown,Unknown
 2576429,Иван Авраменко,friend_of_friend,male,vk.com/id2576429,Unknown,Пермь,14.2.1981
@@ -15721,6 +15721,7 @@ id,label,type,sex,domain,country,city,bdate
 27878659,Екатерина Оборина,friend_of_friend,female,vk.com/id27878659,Unknown,Пермь,25.11
 31732548,Екатерина Верник,friend_of_friend,female,vk.com/id31732548,Unknown,Печора,26.7
 32990358,Татьяна Тупицына,friend_of_friend,female,vk.com/id32990358,Unknown,Красновишерск,7.9
+33453334,Влада Белаш,friend_of_friend,female,vk.com/pavlova.vlada,Unknown,Пермь,8.5
 37114778,Анатолий Волков,friend_of_friend,male,vk.com/mne__nepriyatno,Unknown,Пермь,Unknown
 37676374,Эдуард Гинин,friend_of_friend,male,vk.com/ginineddy,Unknown,Пермь,1.11
 37768100,Мария Тихонова,friend_of_friend,female,vk.com/id37768100,Unknown,Пермь,Unknown
@@ -16027,7 +16028,7 @@ id,label,type,sex,domain,country,city,bdate
 89833206,Анастасия Васильева,friend_of_friend,female,vk.com/kiatey,Unknown,Пермь,3.9
 90048947,Валерия Деулина,friend_of_friend,female,vk.com/mcrismylight,Unknown,Unknown,2.7
 90984596,Мария Иванова,friend_of_friend,female,vk.com/id90984596,Unknown,Пермь,18.6
-91225546,Степан Куцевалов,friend_of_friend,male,vk.com/id91225546,Unknown,Пермь,21.8.2002
+91225546,Степан Куцевалов,friend_of_friend,male,vk.com/id91225546,Unknown,Пермь,21.8
 91749579,Настя Журавлева,friend_of_friend,female,vk.com/id91749579,Unknown,Пермь,29.6.2000
 93332914,Юлия Бойченко,friend_of_friend,female,vk.com/id93332914,Unknown,Пермь,17.7.1982
 93848732,Анастасия Корикова,friend_of_friend,female,vk.com/anastasiiakorii,Unknown,Москва,11.1
@@ -16060,7 +16061,6 @@ id,label,type,sex,domain,country,city,bdate
 105842366,Геннадий Борисов,friend_of_friend,male,vk.com/borisov.alexandrov,Unknown,Пермь,Unknown
 105888589,Анна Дубровина,friend_of_friend,female,vk.com/id105888589,Unknown,Unknown,31.12
 106682773,Вика Апостолова,friend_of_friend,female,vk.com/victoria_apostolova,Unknown,Пермь,16.2
-107111518,Денис Денисов,friend_of_friend,male,vk.com/den159159,Unknown,Unknown,13.6.2000
 107211986,Никита Иванов,friend_of_friend,male,vk.com/id107211986,Unknown,Пермь,Unknown
 107258403,Татьяна Сидякина,friend_of_friend,female,vk.com/tanyaasi,Unknown,Пермь,30.1
 107295331,Екатерина Шишигина,friend_of_friend,female,vk.com/shishiginaekaterina,Unknown,Пермь,29.11
@@ -16196,7 +16196,7 @@ id,label,type,sex,domain,country,city,bdate
 28969168,Надежда Плотникова,friend_of_friend,female,vk.com/plotshop,Unknown,Пермь,15.8
 29032758,Андрей Екатерининский,friend_of_friend,male,vk.com/id29032758,Unknown,Пермь,21.1
 30137099,Надежда Лебедева,friend_of_friend,female,vk.com/n.lebedeva2020,Unknown,Пермь,25.5
-30776176,Александр Ахмедшин,friend_of_friend,male,vk.com/manualex,Unknown,Пермь,2.8
+30776176,Александр Ахмедшин,friend_of_friend,male,vk.com/id30776176,Unknown,Пермь,2.8
 33299659,Юрий Вагин,friend_of_friend,male,vk.com/id33299659,Unknown,Пермь,Unknown
 33656933,April Oneil,friend_of_friend,male,vk.com/id33656933,Unknown,Пермь,24.7
 33818560,Илона Бакина,friend_of_friend,female,vk.com/illona_taro,Unknown,Пермь,19.8.1980
@@ -16648,7 +16648,6 @@ id,label,type,sex,domain,country,city,bdate
 159163640,Мария Бушмакина,friend_of_friend,female,vk.com/id159163640,Unknown,Пермь,19.6.2000
 159522513,Евгения Мезенина,friend_of_friend,female,vk.com/id159522513,Unknown,Пермь,Unknown
 160084326,Александра Соларева,friend_of_friend,female,vk.com/alexandrasola,Unknown,Пермь,27.2
-160777337,Елизавета Читалова,friend_of_friend,female,vk.com/lizachitalova,Unknown,Оса,23.10.2002
 161240824,Михаил Михайлов,friend_of_friend,male,vk.com/mikhahahahahah,Unknown,Unknown,Unknown
 161934182,Нина Караваева,friend_of_friend,female,vk.com/id161934182,Unknown,Пермь,Unknown
 162137225,Эдуард Мальмагутов,friend_of_friend,male,vk.com/id162137225,Unknown,Пермь,14.11
@@ -16674,6 +16673,7 @@ id,label,type,sex,domain,country,city,bdate
 170442378,Елизавета Пигасова,friend_of_friend,female,vk.com/eli.pigasova,Unknown,Unknown,22.12.2000
 170705249,Глеб Уренцев,friend_of_friend,male,vk.com/id170705249,Unknown,Пермь,19.2
 171339270,Таня Векшегонова,friend_of_friend,female,vk.com/tiempo7,Unknown,Unknown,21.6.2000
+171420271,Mariya Pershina,friend_of_friend,female,vk.com/mpershina98,Unknown,Пермь,12.12
 2760026,Ирина Прохоренко,friend_of_friend,female,vk.com/irinaprokhorenko2905,Unknown,Пермь,Unknown
 3287835,Анна Меркулова,friend_of_friend,female,vk.com/merkulova25,Unknown,Пермь,25.3
 4379126,Анна Есенина,friend_of_friend,female,vk.com/id4379126,Unknown,Unknown,Unknown
@@ -16687,7 +16687,7 @@ id,label,type,sex,domain,country,city,bdate
 12853652,Глеб Анатольевич,friend_of_friend,male,vk.com/coachgo,Unknown,Пермь,25.6
 13305674,Олеся Павлова,friend_of_friend,female,vk.com/olesyalesyacherry,Unknown,Пермь,17.4.1996
 22608087,Наталья Шашкова,friend_of_friend,female,vk.com/kyib85,Unknown,Пермь,15.7
-22834530,Жанна Теплых,friend_of_friend,female,vk.com/kirillllirik123456789,Unknown,Фрязево,10.1
+22834530,Жанна Теплых,friend_of_friend,female,vk.com/id22834530,Unknown,Фрязево,10.1
 23971634,Екатерина Стефанович,friend_of_friend,female,vk.com/k_stephanovich,Unknown,Пермь,Unknown
 24585303,Тёма Русанов,friend_of_friend,male,vk.com/tiseoner,Unknown,Санкт-Петербург,27.11
 28283621,Анна Матыцина,friend_of_friend,female,vk.com/id28283621,Unknown,Москва,13.8
@@ -16730,6 +16730,7 @@ id,label,type,sex,domain,country,city,bdate
 149029182,Лиза Попова,friend_of_friend,female,vk.com/liza_popovaa,Unknown,Unknown,19.9
 150550862,Лера Мигулина,friend_of_friend,female,vk.com/id150550862,Unknown,Санкт-Петербург,10.4
 150630988,Кристина Каморина,friend_of_friend,female,vk.com/k.kamorina,Unknown,Пермь,8.1.2001
+150829508,Данил Киреев,friend_of_friend,male,vk.com/dkv59,Unknown,Санкт-Петербург,Unknown
 150919921,DELETED,friend_of_friend,male,vk.com/id150919921,Unknown,Москва,3.11
 151657782,Дарья Брылунова,friend_of_friend,female,vk.com/id151657782,Unknown,Пермь,5.7.2002
 154065762,София Наварнова,friend_of_friend,female,vk.com/id154065762,Unknown,Пермь,27.9
@@ -16995,6 +16996,7 @@ id,label,type,sex,domain,country,city,bdate
 9238864,Вячеслав Бачило,friend_of_friend,male,vk.com/id9238864,Unknown,Киров,1.8
 11449646,Илья Трофимов,friend_of_friend,male,vk.com/just_nik_my,Unknown,Unknown,27.9
 12726673,Елена Швецова,friend_of_friend,female,vk.com/shvetsovaelena,Unknown,Пермь,7.11
+15530113,Даниил Попов,friend_of_friend,male,vk.com/popovtrialog,Unknown,Пермь,23.5
 16044619,Надежда Зеленкина,friend_of_friend,female,vk.com/id16044619,Unknown,Пермь,11.11.1992
 16103320,Наталья Саламатина,friend_of_friend,female,vk.com/natalia_salamatina,Unknown,Пермь,Unknown
 20686692,Ольга Лихачева,friend_of_friend,female,vk.com/olya_lelya_lih,Unknown,Пермь,25.5.1995
@@ -17446,7 +17448,7 @@ id,label,type,sex,domain,country,city,bdate
 75512015,Tatiana Modina,friend_of_friend,female,vk.com/inmiria,Unknown,Москва,20.1
 77813821,Александра Соловьёва,friend_of_friend,female,vk.com/id_71732414,Unknown,Москва,17.11
 78984522,Настя Анурина,friend_of_friend,female,vk.com/anurinacheeky,Unknown,Москва,14.8
-79025353,Анастасия Никифорова,friend_of_friend,female,vk.com/kefir1234,Unknown,Москва,Unknown
+79025353,Анастасия Никифорова,friend_of_friend,female,vk.com/a.nikiforova1999,Unknown,Москва,Unknown
 79367866,Михаил Федин,friend_of_friend,male,vk.com/mixail5428,Unknown,Саранск,13.12.1999
 80450070,Аня Макарова,friend_of_friend,female,vk.com/anya13331,Unknown,Unknown,Unknown
 80567912,Никита Калинов,friend_of_friend,male,vk.com/kalinconnor,Unknown,Москва,10.3
@@ -17615,6 +17617,7 @@ id,label,type,sex,domain,country,city,bdate
 163957103,Ксюша Петрова,friend_of_friend,female,vk.com/id163957103,Unknown,Unknown,6.7.2004
 164311143,Полина Тюленева,friend_of_friend,female,vk.com/pollytyuleneva,Unknown,Москва,27.9
 164551928,Ekaterina Tetereva,friend_of_friend,female,vk.com/tree_sparrow,Unknown,Москва,7.8
+164576840,Анатолий Бугаев,friend_of_friend,male,vk.com/69ve4no6yx0i69,Unknown,Unknown,25.6
 165198092,Алина Сорокина,friend_of_friend,female,vk.com/m_o_o_n____l_i_g_h_t,Unknown,Unknown,26.11.2002
 165198788,Ванёк Дмитриев,friend_of_friend,male,vk.com/divan322,Unknown,Ростов-на-Дону,Unknown
 165373178,Мила Тыква,friend_of_friend,female,vk.com/tupamila,Unknown,Москва,13.3.2001
@@ -17629,7 +17632,6 @@ id,label,type,sex,domain,country,city,bdate
 167944220,Валерия Казьмина,friend_of_friend,female,vk.com/h2ocrmag,Unknown,Unknown,14.9.2000
 168112150,Мария Субботина,friend_of_friend,female,vk.com/submoree,Unknown,Москва,24.8
 168559887,Тихон Жанбеков,friend_of_friend,male,vk.com/kamapulyu,Unknown,Unknown,Unknown
-168985183,Дарья Веденеева,friend_of_friend,female,vk.com/veadesh,Unknown,Санкт-Петербург,23.5
 36086751,Kristina Korneeva,friend_of_friend,female,vk.com/id36086751,Unknown,Paris,Unknown
 65951525,Даша Смирнова,friend_of_friend,female,vk.com/smirdaha,Unknown,Пермь,Unknown
 78762185,Алиночка Кузнецова,friend_of_friend,female,vk.com/id78762185,Unknown,Пермь,17.12
@@ -18385,7 +18387,7 @@ id,label,type,sex,domain,country,city,bdate
 152633146,Елизавета Сайкинова,friend_of_friend,female,vk.com/id152633146,Unknown,Пермь,25.7.2002
 155515059,Анастасия Зимоглядова,friend_of_friend,female,vk.com/la_lalala_blablabla,Unknown,Unknown,5.8
 158597390,Алиса Люпина,friend_of_friend,female,vk.com/isaishere,Unknown,Пермь,5.3.2002
-159028728,Влад Санакоев,friend_of_friend,male,vk.com/vlad1117,Unknown,Пермь,9.4
+159028728,Владислав Санакоев,friend_of_friend,male,vk.com/vlad1117,Unknown,Пермь,9.4
 161956026,Кирилл Вострепкин,friend_of_friend,male,vk.com/flapjar,Unknown,Пермь,16.4
 162900407,Даша Чуйкина,friend_of_friend,female,vk.com/dachaoo,Unknown,Пермь,19.7.2002
 164754858,Дмитрий Чувызгалов,friend_of_friend,male,vk.com/dmitriy_chuvyzgalov,Unknown,Пермь,24.2
@@ -18542,7 +18544,7 @@ id,label,type,sex,domain,country,city,bdate
 52229833,Вова Горовой,friend_of_friend,male,vk.com/vladimirbyre,Unknown,Пермь,Unknown
 52320681,Стас Кочнев,friend_of_friend,male,vk.com/id52320681,Unknown,Екатеринбург,15.8.1982
 52442509,Кирилл Кондратьев,friend_of_friend,male,vk.com/id52442509,Unknown,Пермь,31.12.1996
-53053692,Василий Павловский,friend_of_friend,male,vk.com/vasyaliy,Unknown,Москва,11.1.1998
+53053692,Василий Павловский,friend_of_friend,male,vk.com/vasyaliy,Unknown,Пермь,11.1.1998
 53281381,Диана Островская,friend_of_friend,female,vk.com/icecreams,Unknown,Санкт-Петербург,12.10
 54123369,Данил Галеев,friend_of_friend,male,vk.com/galeevd7,Unknown,Madrid,5.12
 55637077,Женя Окулов,friend_of_friend,male,vk.com/blamik,Unknown,Пермь,9.6.1997
@@ -18588,7 +18590,7 @@ id,label,type,sex,domain,country,city,bdate
 106130638,Алексей Корольков,friend_of_friend,male,vk.com/korolkovalexey96,Unknown,Санкт-Петербург,17.10
 106396360,Ева Кетова,friend_of_friend,female,vk.com/makcat88,Unknown,Пермь,8.10
 106742874,Александр Житлов,friend_of_friend,male,vk.com/alex_zhitlov1,Unknown,Unknown,Unknown
-108787073,Тоня Шкурина,friend_of_friend,female,vk.com/tontattoo,Unknown,Екатеринбург,Unknown
+108787073,Тоня Шкурина,friend_of_friend,female,vk.com/tattooskin99,Unknown,Екатеринбург,Unknown
 109252545,Андрей Бендер,friend_of_friend,male,vk.com/andre_bender,Unknown,Пермь,19.3.1998
 109300918,Алексей Горохов,friend_of_friend,male,vk.com/id109300918,Unknown,Пермь,6.2
 115976556,Константин Овчинников,friend_of_friend,male,vk.com/kotkostyakot,Unknown,Пермь,29.10
@@ -18815,7 +18817,7 @@ id,label,type,sex,domain,country,city,bdate
 181468087,Кристина Базаева,friend_of_friend,female,vk.com/kriisti_09,Unknown,Пермь,9.8
 181698161,Елена Чепурная,friend_of_friend,female,vk.com/id181698161,Unknown,Пермь,21.7.1975
 184623007,Данил Букреев,friend_of_friend,male,vk.com/sopenti,Unknown,Пермь,10.7.2001
-185076566,Юра Гриньков,friend_of_friend,male,vk.com/yurec228flex,Unknown,Нижний Новгород,21.2.2002
+185076566,Юра Гриньков,friend_of_friend,male,vk.com/yurec228flex,Unknown,Санкт-Петербург,21.2.2002
 185609800,Елена Чепурная,friend_of_friend,female,vk.com/chepurnayaelena,Unknown,Анапа,1.1
 186519515,Мария Абрамычева,friend_of_friend,female,vk.com/abramari,Unknown,Пермь,26.2
 186643233,Лагерь Т-Игра,friend_of_friend,male,vk.com/t_igra_camp,Unknown,Пермь,25.9
@@ -18866,7 +18868,7 @@ id,label,type,sex,domain,country,city,bdate
 71244239,Кристина Загайнова,friend_of_friend,female,vk.com/krisstushaaa,Unknown,Пермь,24.6
 73424082,Максим Жохов,friend_of_friend,male,vk.com/maxim_zhohov,Unknown,Санкт-Петербург,14.1.1903
 97521132,Дмитрий Киор,friend_of_friend,male,vk.com/katarhont,Unknown,Дзержинск,24.8
-98422164,Захар Руденко,friend_of_friend,male,vk.com/stukku,Unknown,Санкт-Петербург,10.7
+98422164,Захар Руденко,friend_of_friend,male,vk.com/id98422164,Unknown,Санкт-Петербург,10.7
 114318649,Михаил Зубарев,friend_of_friend,male,vk.com/kljhfg,Unknown,Unknown,Unknown
 114501391,Оля Мурашкина,friend_of_friend,female,vk.com/olika.moor,Unknown,Санкт-Петербург,17.2.2002
 114776522,Ильнар Мирхаев,friend_of_friend,male,vk.com/nowyoujustamemory,Unknown,Санкт-Петербург,8.6
@@ -19320,7 +19322,7 @@ id,label,type,sex,domain,country,city,bdate
 993218,Никита Хотьков,friend_of_friend,male,vk.com/khotkov,Unknown,Москва,10.2.1991
 1079898,Сергей Игнашин,friend_of_friend,male,vk.com/id1079898,Unknown,Москва,Unknown
 1093504,Артём Непша,friend_of_friend,male,vk.com/zamkad,Unknown,Москва,20.3
-1160827,Андрей Григорьев,friend_of_friend,male,vk.com/nahui_idite1990,Unknown,Москва,Unknown
+1160827,Марина Коллерова,friend_of_friend,female,vk.com/id1160827,Unknown,т/б Семинский Перевал,Unknown
 1210012,Viacheslav Kuzovkov,friend_of_friend,male,vk.com/id1210012,Unknown,Химки,6.3.1983
 1231336,Леся Lessionok,friend_of_friend,female,vk.com/id1231336,Unknown,Москва,10.4
 1265684,Алиса Анисимова,friend_of_friend,female,vk.com/say_yas,Unknown,Москва,2.2
@@ -19534,7 +19536,6 @@ id,label,type,sex,domain,country,city,bdate
 18004999,Евгений Корцыгин,friend_of_friend,male,vk.com/id18004999,Unknown,Самара,27.5
 18201589,Павел Virsta,friend_of_friend,male,vk.com/p.virsta,Unknown,Москва,27.5
 18395375,Ирина Маскеева,friend_of_friend,female,vk.com/id18395375,Unknown,Москва,19.4
-18769555,Андрей Венков,friend_of_friend,male,vk.com/aavenkov,Unknown,Новозавидовский,23.2
 3626106,Алёна Алиева,friend_of_friend,female,vk.com/ilenki,Unknown,Пермь,16.7.1990
 3701015,Николай Казаринов,friend_of_friend,male,vk.com/nikolaisanych,Unknown,Москва,22.5.1987
 6166386,Марк Челомбицкий,friend_of_friend,male,vk.com/mchelombitskiy,Unknown,Пермь,22.7
@@ -20056,7 +20057,6 @@ id,label,type,sex,domain,country,city,bdate
 170344737,Алексей Кошмин,friend_of_friend,male,vk.com/aleksey_koshmin,Unknown,Санкт-Петербург,15.7
 170735285,Рома Матвеенко,friend_of_friend,male,vk.com/freak9,Unknown,Пермь,2.1
 171187614,Юлия Илларионова,friend_of_friend,female,vk.com/julskart,Unknown,Пермь,19.9
-171420271,Mariya Pershina,friend_of_friend,female,vk.com/mpershina98,Unknown,Пермь,12.12
 176275632,Ксения Филюшова,friend_of_friend,female,vk.com/kseniaksuuu,Unknown,Санкт-Петербург,19.10.1991
 177486059,Екатерина Смирнова,friend_of_friend,female,vk.com/id177486059,Unknown,Хабаровск,Unknown
 177561014,Ксения Фрайман,friend_of_friend,female,vk.com/fraymank,Unknown,Пермь,29.1
@@ -21234,7 +21234,7 @@ id,label,type,sex,domain,country,city,bdate
 32376646,Мария Язева,friend_of_friend,female,vk.com/sergeevna1304,Unknown,Москва,13.4
 32530118,Рома Королев,friend_of_friend,male,vk.com/id32530118,Unknown,Unknown,24.6.1996
 33807136,Сергей Каменских,friend_of_friend,male,vk.com/exxlight,Unknown,Пермь,14.2.1996
-34525167,Даниил Квашнев,friend_of_friend,male,vk.com/id34525167,Unknown,Санкт-Петербург,11.12.1996
+34525167,Даниил Квашнев,friend_of_friend,male,vk.com/beat_mad,Unknown,Санкт-Петербург,11.12.1996
 34749733,Ася Сергеевна,friend_of_friend,female,vk.com/nastushasuyatina,Unknown,Пермь,26.5
 34833233,Елена Панарина,friend_of_friend,female,vk.com/e.a.panarina,Unknown,Пермь,3.5
 35210765,Анастасия Каликова,friend_of_friend,female,vk.com/anastasia_kalikova,Unknown,Пермь,5.4
@@ -22179,6 +22179,7 @@ id,label,type,sex,domain,country,city,bdate
 1278646,Антон Маклаев,friend_of_friend,male,vk.com/maklaev,Unknown,Пермь,Unknown
 1609045,Валерия Рыжова,friend_of_friend,female,vk.com/id1609045,Unknown,Unknown,Unknown
 3614949,Valerie Galinovskaya,friend_of_friend,female,vk.com/v.galinovskaya,Unknown,Пермь,19.8
+4133053,Сергей Лебеденков,friend_of_friend,male,vk.com/leb_s,Unknown,Пермь,Unknown
 7957495,Елена Врабие,friend_of_friend,female,vk.com/id7957495,Unknown,Пермь,Unknown
 9087103,Настя Брыжинская,friend_of_friend,female,vk.com/n_bryzhinskaya,Unknown,Пермь,20.6
 9170221,Евгений Пустовалов,friend_of_friend,male,vk.com/cho_ojoy,Unknown,Пермь,8.2.1988
@@ -22375,6 +22376,7 @@ id,label,type,sex,domain,country,city,bdate
 49271076,Оксана Кошевич,friend_of_friend,female,vk.com/schastye51,Unknown,Unknown,Unknown
 50401233,Александр Крецул,friend_of_friend,male,vk.com/kretsulya,Unknown,Unknown,Unknown
 52545786,Настя Корнева,friend_of_friend,female,vk.com/nastiyakorneva,Unknown,Москва,30.6
+52674519,Наталья Богачева,friend_of_friend,female,vk.com/id52674519,Unknown,Мурманск,19.10.1975
 53360947,Миша Кожеуров,friend_of_friend,male,vk.com/canfly.official,Unknown,Санкт-Петербург,9.1
 53381961,Светлана Николаева,friend_of_friend,female,vk.com/id53381961,Unknown,Мурманск,30.6
 53388031,Марина Словакина,friend_of_friend,female,vk.com/bymaryinlove,Unknown,Санкт-Петербург,Unknown
@@ -22487,12 +22489,10 @@ id,label,type,sex,domain,country,city,bdate
 105193482,Алексей Рагулин,friend_of_friend,male,vk.com/id105193482,Unknown,Мурманск,25.3.1979
 105497432,Александр Слесарев,friend_of_friend,male,vk.com/slesarev_alex,Unknown,Самара,25.3
 105498844,Виктория Рыбакова,friend_of_friend,female,vk.com/id105498844,Unknown,Богучар,13.8.1999
-105757290,Лилия Котова,friend_of_friend,female,vk.com/liliakotova2020,Unknown,Москва,22.10
 4929106,Valeriy Shibanov,friend_of_friend,male,vk.com/vvshibanov,Unknown,Unknown,Unknown
 7181144,Анна Костюк,friend_of_friend,female,vk.com/id7181144,Unknown,Москва,24.2
 8379090,Катерина Пересадько,friend_of_friend,female,vk.com/katkoperesadko,Unknown,Москва,24.10
 9104817,Evgeniia Kuznetsova,friend_of_friend,female,vk.com/on_air_merryjane,Unknown,Нижний Новгород,10.11
-9560711,Юлиана Никулина,friend_of_friend,female,vk.com/asmirnnov,Unknown,Лобня,6.1
 10752131,Варвара Верещагина,friend_of_friend,female,vk.com/varver,Unknown,Нижний Новгород,25.5
 13328707,Оля Купоросова,friend_of_friend,female,vk.com/id13328707,Unknown,Нижний Новгород,1.10
 14838589,Татьяна Слабикова,friend_of_friend,female,vk.com/id14838589,Unknown,Нижний Новгород,13.2
@@ -22733,6 +22733,7 @@ id,label,type,sex,domain,country,city,bdate
 354525623,Елизавета Тихонова,friend_of_friend,female,vk.com/id354525623,Unknown,Нижний Новгород,30.10.1905
 357624830,Петр Ветлицкий,friend_of_friend,male,vk.com/id357624830,Unknown,Unknown,Unknown
 361325732,Степан Князев,friend_of_friend,male,vk.com/malchik_na_drive,Unknown,Нижний Новгород,1.11
+362655130,Валерия Капитанова,friend_of_friend,female,vk.com/relavia,Unknown,Москва,6.7
 2182216,Ксения Фролова,friend_of_friend,female,vk.com/zigotka818,Unknown,Unknown,8.8
 3326988,Светлана Ремнева,friend_of_friend,female,vk.com/shmykova,Unknown,Пермь,Unknown
 3568355,Дмитрий Глебов,friend_of_friend,male,vk.com/a1ixx,Unknown,Пермь,Unknown
@@ -23007,6 +23008,7 @@ id,label,type,sex,domain,country,city,bdate
 588774265,Ольга Турабова,friend_of_friend,female,vk.com/id588774265,Unknown,Пермь,15.6.1968
 646114324,Юрий Кошкарев,friend_of_friend,male,vk.com/id646114324,Unknown,Пермь,3.12.1974
 732243654,Катя Брылунова,friend_of_friend,female,vk.com/id732243654,Unknown,Unknown,29.5.2008
+747632751,Кирилл Соловьев,friend_of_friend,male,vk.com/id747632751,Unknown,Unknown,27.4.2008
 1215464,Алексей Аносов,friend_of_friend,male,vk.com/id1215464,Unknown,Москва,Unknown
 3593581,Дмитрий Берзин,friend_of_friend,male,vk.com/id3593581,Unknown,Москва,21.7
 9432814,Михаил Коротеев,friend_of_friend,male,vk.com/koroteev_m,Unknown,Москва,16.3.1989
@@ -23405,7 +23407,7 @@ id,label,type,sex,domain,country,city,bdate
 229933682,София Нуралиева,friend_of_friend,female,vk.com/nenavizhumateshy,Unknown,Москва,19.2.2002
 230134977,Данил Лукьянченко,friend_of_friend,male,vk.com/lukyanchenko_d,Unknown,Ставрополь,24.2
 230192836,Юра Давыдов,friend_of_friend,male,vk.com/y.davydov26,Unknown,Ставрополь,30.10
-231428560,Elizaveta Dolgopolova,friend_of_friend,female,vk.com/id231428560,Unknown,Ставрополь,26.3.2003
+231428560,Elizaveta Dolgopolova,friend_of_friend,female,vk.com/id231428560,Unknown,Ставрополь,Unknown
 231671013,Катерина Апалькова,friend_of_friend,female,vk.com/rinari_rinari,Unknown,Казань,13.6.2002
 236388337,Анастасия Журавлёва,friend_of_friend,female,vk.com/lladydimitrescu,Unknown,Unknown,Unknown
 236455993,Глеб Потапов,friend_of_friend,male,vk.com/hariton_haritong,Unknown,Unknown,14.5
@@ -23449,6 +23451,7 @@ id,label,type,sex,domain,country,city,bdate
 267028606,Илья Шмидт,friend_of_friend,male,vk.com/id267028606,Unknown,Unknown,2.8
 267273816,Диана Якупова,friend_of_friend,female,vk.com/serpentdi,Unknown,Unknown,19.7.2002
 269079101,Ирина Кузьминова,friend_of_friend,female,vk.com/irina___kuzminova,Unknown,Ставрополь,10.5
+269101804,Иван Новиков,friend_of_friend,male,vk.com/mr_fendel,Unknown,Москва,10.10.2000
 269397665,Марьяна Вишнёва,friend_of_friend,female,vk.com/talliasha,Unknown,Unknown,Unknown
 269562491,Катя Крамарова,friend_of_friend,female,vk.com/id269562491,Unknown,Ставрополь,7.6.2001
 269990907,Татьяна Ольховик,friend_of_friend,female,vk.com/id269990907,Unknown,Ставрополь,30.1.2001
@@ -23489,7 +23492,6 @@ id,label,type,sex,domain,country,city,bdate
 318319559,Дарья Ульянова,friend_of_friend,female,vk.com/nuuuke,Unknown,Unknown,30.7
 319289190,Андрей Литвинов,friend_of_friend,male,vk.com/maastershifuu,Unknown,Ставрополь,1.12.2003
 321167905,Алина Волкова,friend_of_friend,female,vk.com/vo1kova_aa,Unknown,Москва,1.9
-321299536,Лиза Горбовская,friend_of_friend,female,vk.com/id321299536,Unknown,Unknown,Unknown
 703172,Алёна Краснова,friend_of_friend,female,vk.com/id703172,Unknown,Пермь,9.2
 1546064,Денис Ручьев,friend_of_friend,male,vk.com/id1546064,Unknown,Пермь,3.7.1986
 2517173,Полина Логиновских,friend_of_friend,female,vk.com/id2517173,Unknown,Пермь,18.7
@@ -23509,7 +23511,7 @@ id,label,type,sex,domain,country,city,bdate
 6317832,Игорь Брюхов,friend_of_friend,male,vk.com/snejnii,Unknown,Пермь,Unknown
 6458192,Дарья Немцева,friend_of_friend,female,vk.com/kirsanovadarya,Unknown,Екатеринбург,23.5
 6663076,Ольга Строгонова,friend_of_friend,female,vk.com/id6663076,Unknown,Пермь,27.11.1987
-6684223,Ирина Каменских,friend_of_friend,female,vk.com/ikamenskih,Unknown,Unknown,16.4
+6684223,Ирина Каменских,friend_of_friend,female,vk.com/ikamenskih,Unknown,Unknown,16.3
 6850753,Sonechka Shmikova,friend_of_friend,female,vk.com/sofiyroganova,Unknown,Unknown,20.7
 7289460,Super Klavik,friend_of_friend,female,vk.com/freymankv,Unknown,Unknown,10.4
 7774514,Татьяна Дылдина,friend_of_friend,female,vk.com/id7774514,Unknown,Пермь,Unknown
@@ -23688,6 +23690,7 @@ id,label,type,sex,domain,country,city,bdate
 7562108,Иван Клещ,friend_of_friend,male,vk.com/ivankleshch,Unknown,Самара,6.7.1993
 7720700,Светлана Мамонтова,friend_of_friend,female,vk.com/mamontovasv,Unknown,Санкт-Петербург,24.9
 8183944,Алина Туркина,friend_of_friend,female,vk.com/alina_t,Unknown,Сочи,6.3
+8600326,Марина Чагина,friend_of_friend,female,vk.com/id8600326,Unknown,Тюмень,28.2
 8834505,Валентина Барчукова,friend_of_friend,female,vk.com/vel0706,Unknown,Москва,7.6
 8960379,Александр Абриталин,friend_of_friend,male,vk.com/aabritalin,Unknown,Москва,27.5.1956
 9788374,Яна Агафонова,friend_of_friend,female,vk.com/id9788374,Unknown,Самара,Unknown
@@ -23825,7 +23828,7 @@ id,label,type,sex,domain,country,city,bdate
 101647044,Татьяна Воеводина,friend_of_friend,female,vk.com/id101647044,Unknown,Нижний Новгород,29.6
 103395115,Валентина Богданова,friend_of_friend,female,vk.com/id103395115,Unknown,Ижевск,6.7.2000
 103615137,Елизавета Кармуева,friend_of_friend,female,vk.com/id103615137,Unknown,Unknown,Unknown
-103834268,Виктория Бабайлова,friend_of_friend,female,vk.com/viktoriyababaylova,Unknown,Нижний Тагил,Unknown
+103834268,Виктория Дылдина,friend_of_friend,female,vk.com/viktoriyababaylova,Unknown,Нижний Тагил,Unknown
 105837396,Андрей Ивлев,friend_of_friend,male,vk.com/andreiivlevw,Unknown,Unknown,13.10
 106275365,Анна Галушко,friend_of_friend,female,vk.com/id106275365,Unknown,Пересвет,4.3
 108596273,Алина Толстых,friend_of_friend,female,vk.com/alinusik.love23,Unknown,Сочи,23.5.1998
@@ -23874,7 +23877,6 @@ id,label,type,sex,domain,country,city,bdate
 161135423,Marjan Kataroski,friend_of_friend,male,vk.com/id161135423,Unknown,Прилеп,Unknown
 161448663,Юличка Чистякова,friend_of_friend,female,vk.com/id161448663,Unknown,Сочи,Unknown
 161838628,Дарья Кулишова,friend_of_friend,female,vk.com/kulishova_d,Unknown,Красноярск,Unknown
-162387328,Ариша Кондрикова,friend_of_friend,female,vk.com/tvoy_zvezdochka,Unknown,Коломна,5.2.2007
 3354601,Марсель Хуснутдинов,friend_of_friend,male,vk.com/marsel059,Unknown,Пермь,16.2
 4741282,Анастасия Сайфуллина,friend_of_friend,female,vk.com/asayfullina,Unknown,Нижний Новгород,14.11
 10280340,Ирина Пьянкова,friend_of_friend,female,vk.com/timirova_i,Unknown,Пермь,19.11
@@ -24301,7 +24303,7 @@ id,label,type,sex,domain,country,city,bdate
 151601386,Даня Кекконен,friend_of_friend,male,vk.com/dkekkonen,Unknown,Пермь,11.5.1998
 151709293,Артем Самарин,friend_of_friend,male,vk.com/artyomik2000,Unknown,Пермь,14.6.2002
 152178070,Игорь Жданов,friend_of_friend,male,vk.com/id152178070,Unknown,Пермь,5.10
-152634276,Маша Захарова,friend_of_friend,female,vk.com/id152634276,Unknown,Пермь,31.3.2002
+152634276,Маша Захарова,friend_of_friend,female,vk.com/m_a_s_h_a_7,Unknown,Пермь,31.3.2002
 153400260,Майя Оринцева,friend_of_friend,female,vk.com/id153400260,Unknown,Пермь,12.5
 153419026,Татьяна Османова,friend_of_friend,female,vk.com/ta_kardonskih,Unknown,Unknown,25.1
 153633189,Данил Афанасьев,friend_of_friend,male,vk.com/id153633189,Unknown,Пермь,19.5
@@ -24370,7 +24372,7 @@ id,label,type,sex,domain,country,city,bdate
 113618511,Боря Спиридонов,friend_of_friend,male,vk.com/boris_barbarys,Unknown,Москва,31.8
 116698670,Лёха Парамонов,friend_of_friend,male,vk.com/kraget,Unknown,Москва,19.7.1999
 125871390,Рената Хамитова,friend_of_friend,female,vk.com/tasamayarenata,Unknown,Москва,26.5
-126724029,Александр Черкас,friend_of_friend,male,vk.com/just_razor,Unknown,Unknown,29.4.1999
+126724029,Александр Черкас,friend_of_friend,male,vk.com/id126724029,Unknown,Unknown,29.4.1999
 126833154,Ника Заворотова,friend_of_friend,female,vk.com/hachipuria,Unknown,Москва,27.6
 138269644,Таня Резникова,friend_of_friend,female,vk.com/id138269644,Unknown,Москва,31.12.1999
 140465856,Анастасия Сильченко,friend_of_friend,female,vk.com/mosesbroken,Unknown,Москва,15.8.2001
@@ -25148,7 +25150,7 @@ id,label,type,sex,domain,country,city,bdate
 28452026,Иван Никитин,friend_of_friend,male,vk.com/id28452026,Unknown,Санкт-Петербург,21.8.1999
 29048077,Анна Титова,friend_of_friend,female,vk.com/titatitova,Unknown,Москва,11.7.1997
 29573102,Азат Саримов,friend_of_friend,male,vk.com/sarimovaza,Unknown,Москва,2.1
-29794577,Игорь Мальцев,friend_of_friend,male,vk.com/kombiner,Unknown,Москва,15.2
+29794577,Игорь Мальцев,friend_of_friend,male,vk.com/kombiner,Unknown,Москва,Unknown
 29813546,Дениска Фролов,friend_of_friend,male,vk.com/1ostankino,Unknown,Москва,Unknown
 29853189,Марьяна Поленова,friend_of_friend,female,vk.com/id29853189,Unknown,Москва,20.9
 29928378,Иван Атаманский,friend_of_friend,male,vk.com/v.aano,Unknown,Москва,23.9
@@ -25458,7 +25460,7 @@ id,label,type,sex,domain,country,city,bdate
 198190674,Анна Антипова,friend_of_friend,female,vk.com/a.antipova415,Unknown,Екатеринбург,20.12
 204351290,Юлия Товстухо,friend_of_friend,female,vk.com/yulyat,Unknown,Екатеринбург,26.1
 205255034,Анна Трифонова,friend_of_friend,female,vk.com/anna_3fon,Unknown,Екатеринбург,19.4
-205823353,Кристина Козлова,friend_of_friend,female,vk.com/krisprodesign,Unknown,Санкт-Петербург,17.3
+205823353,Кристина Козлова,friend_of_friend,female,vk.com/designskriss,Unknown,Санкт-Петербург,17.3
 206194218,Влад Гребиневич,friend_of_friend,male,vk.com/id206194218,Unknown,Пермь,16.9.1997
 206875813,Анастасия Молофеева,friend_of_friend,female,vk.com/sokodavka,Unknown,Unknown,8.1
 210348118,Настя Егорова,friend_of_friend,female,vk.com/nastasizme,Unknown,Unknown,16.12.2001
@@ -26116,7 +26118,7 @@ id,label,type,sex,domain,country,city,bdate
 353117161,Иван Патласов,friend_of_friend,male,vk.com/kayoleet,Unknown,Пермь,4.6.2002
 356882551,Александра Зачерновских,friend_of_friend,female,vk.com/id356882551,Unknown,Пермь,20.6.1995
 371869805,Вова Велетнюк,friend_of_friend,male,vk.com/newm1ron,Unknown,Монастырище,Unknown
-392535166,Артём Колосов,friend_of_friend,male,vk.com/art1k1ng,Unknown,Пермь,18.1
+392535166,Вольфганг Моцарт,friend_of_friend,male,vk.com/art1k1ng,Unknown,Пермь,18.1
 398587705,Ася Рамм,friend_of_friend,female,vk.com/asya_rr,Unknown,Пермь,Unknown
 402848416,Eva Vishnevskaya,friend_of_friend,female,vk.com/sospaceamazing,Unknown,Санкт-Петербург,16.12
 413688283,Виктория Мутных,friend_of_friend,female,vk.com/id413688283,Unknown,Пермь,Unknown
@@ -26538,7 +26540,7 @@ id,label,type,sex,domain,country,city,bdate
 9839664,Татьяна Поваляева,friend_of_friend,female,vk.com/povalyaevatp,Unknown,Пермь,11.3
 10399596,Ольга Малкова,friend_of_friend,female,vk.com/id10399596,Unknown,Коряжма,8.5
 11214351,Сергей Искам,friend_of_friend,male,vk.com/id11214351,Unknown,Пермь,9.5
-12591590,Евгений Искам,friend_of_friend,male,vk.com/id12591590,Unknown,Пермь,Unknown
+12591590,Евгений Искам,friend_of_friend,male,vk.com/id12591590,Unknown,Unknown,Unknown
 12817559,Юлия Лебедева,friend_of_friend,female,vk.com/lebedevadea,Unknown,Пермь,22.5.1976
 13970513,Екатерина Сыропятова,friend_of_friend,female,vk.com/id13970513,Unknown,Оренбург,16.12
 14298739,Наталья Надыршина,friend_of_friend,female,vk.com/id14298739,Unknown,Пермь,Unknown
@@ -26971,7 +26973,7 @@ id,label,type,sex,domain,country,city,bdate
 20900707,Евгений Терентьев,friend_of_friend,male,vk.com/id20900707,Unknown,Пермь,26.1.1987
 21596078,Илья Курыгин,friend_of_friend,male,vk.com/4enomen,Unknown,Пермь,28.1
 21663603,Виктор Саликов,friend_of_friend,male,vk.com/id21663603,Unknown,Пермь,5.3
-21799022,София Есипова,friend_of_friend,female,vk.com/meshehkaaaaaaa,Unknown,Савинская (Приозерное м/о),Unknown
+21799022,София Есипова,friend_of_friend,female,vk.com/id21799022,Unknown,Савинская (Приозерное м/о),Unknown
 22328875,Алексей Степанов,friend_of_friend,male,vk.com/alex1100,Unknown,Краснодар,31.3.1902
 22721618,Дмитрий Столицин,friend_of_friend,male,vk.com/avtovykup_sto,Unknown,Пермь,Unknown
 22760256,DELETED,friend_of_friend,male,vk.com/id22760256,Unknown,Пермь,2.4.1987
@@ -27333,7 +27335,7 @@ id,label,type,sex,domain,country,city,bdate
 411557,Melita Aleshina,friend_of_friend,female,vk.com/melitaaleshina,Unknown,Unknown,14.8
 416195,Мартина Ярова,friend_of_friend,female,vk.com/martinayarova,Unknown,Санкт-Петербург,27.11.1928
 421640,Татьяна Артамонова,friend_of_friend,female,vk.com/akoptt,Unknown,Санкт-Петербург,14.5
-425465,Вера Гришутина,friend_of_friend,female,vk.com/akhalteke,Unknown,Санкт-Петербург,10.6
+425465,Вера Трунова,friend_of_friend,female,vk.com/akhalteke,Unknown,Санкт-Петербург,10.6
 433432,Екатерина Иванова,friend_of_friend,female,vk.com/id433432,Unknown,Санкт-Петербург,20.1.1987
 435624,Андрей Лебедев,friend_of_friend,male,vk.com/ap_lebedev,Unknown,Санкт-Петербург,16.8.1990
 442857,Людмила Мельникова,friend_of_friend,female,vk.com/melnikova_l,Unknown,Санкт-Петербург,2.7
@@ -27382,7 +27384,7 @@ id,label,type,sex,domain,country,city,bdate
 915428,Ольга Антонова,friend_of_friend,female,vk.com/id915428,Unknown,Санкт-Петербург,6.10.1985
 919087,Ксения Соболева,friend_of_friend,female,vk.com/osennyaya,Unknown,Unknown,4.6
 928129,Полина Байбурина,friend_of_friend,female,vk.com/pollybay.dress,Unknown,Санкт-Петербург,Unknown
-939975,Ирина Алексеева,friend_of_friend,female,vk.com/id939975,Unknown,Санкт-Петербург,29.5
+939975,Ирина Алексеева,friend_of_friend,female,vk.com/irinaepil,Unknown,Санкт-Петербург,29.5
 961926,Юлия Крылова,friend_of_friend,female,vk.com/aurora_shakti,Unknown,Санкт-Петербург,1.1
 969220,Елена Мишенина,friend_of_friend,female,vk.com/elena_mishenina,Unknown,Санкт-Петербург,13.1
 1001417,Наталья Матвеева,friend_of_friend,female,vk.com/id1001417,Unknown,Санкт-Петербург,2.3
@@ -27485,14 +27487,14 @@ id,label,type,sex,domain,country,city,bdate
 3064352,Алиса Махлис,friend_of_friend,female,vk.com/m.alizes,Unknown,Москва,14.8
 3094730,Юлия Мокрушина,friend_of_friend,female,vk.com/mackrojl,Unknown,Пермь,Unknown
 3136179,Александра Клименкова,friend_of_friend,female,vk.com/a.klimenkova,Unknown,Москва,6.7
-3208048,Sasha Volodina,friend_of_friend,female,vk.com/sashavolodina,Unknown,Санкт-Петербург,1.11
+3208048,Sasha Volodina,friend_of_friend,female,vk.com/id3208048,Unknown,Санкт-Петербург,1.11
 3252438,Ксения Редько,friend_of_friend,female,vk.com/redkoksenija,Unknown,Санкт-Петербург,Unknown
 3270119,Анна Сметанина,friend_of_friend,female,vk.com/smetaninaanna,Unknown,Санкт-Петербург,Unknown
 3301412,Лена Сергеева,friend_of_friend,female,vk.com/veromani,Unknown,Unknown,18.4.1992
 3305663,Ксюша Иванова,friend_of_friend,female,vk.com/xu_narasxvat,Unknown,Санкт-Петербург,10.1
 3322382,Вероника Рожнякова,friend_of_friend,female,vk.com/ni__ka,Unknown,Москва,19.7
 3322391,Анастасия Мамонтова,friend_of_friend,female,vk.com/aamamontova,Unknown,Москва,8.4
-3340333,Мария Крылова,friend_of_friend,female,vk.com/katebukreeva,Unknown,Симферополь,29.12
+3340333,Мария Крылова,friend_of_friend,female,vk.com/katebukreeva,Unknown,Unknown,29.12
 3400110,Кристина Желонкина,friend_of_friend,female,vk.com/tovarish.kisa,Unknown,Москва,4.2
 3450740,Светлана Шкутова,friend_of_friend,female,vk.com/id3450740,Unknown,Санкт-Петербург,13.12
 3473168,Ирина Снежко,friend_of_friend,female,vk.com/mira8314868,Unknown,Санкт-Петербург,19.7
@@ -28056,7 +28058,7 @@ id,label,type,sex,domain,country,city,bdate
 343244958,Алина Стрельникова,friend_of_friend,female,vk.com/id343244958,Unknown,Пермь,14.2.2002
 343680835,Маша Теленкова,friend_of_friend,female,vk.com/m_ash_aa,Unknown,Пермь,7.5
 343893665,Marina Nevolina,friend_of_friend,female,vk.com/id343893665,Unknown,Unknown,Unknown
-344297765,Маша Лучникова,friend_of_friend,female,vk.com/lu4hnikova,Unknown,Unknown,Unknown
+344297765,Маша Лучникова,friend_of_friend,female,vk.com/lu4hnikova,Unknown,Unknown,26.3
 345616456,Виолетта Лузина,friend_of_friend,female,vk.com/id345616456,Unknown,Пермь,19.12
 351462151,Маша Кольцова,friend_of_friend,female,vk.com/id351462151,Unknown,Пермь,19.12
 352658074,Леша Мурзин,friend_of_friend,male,vk.com/ragingdashie,Unknown,Пермь,14.8
@@ -28575,7 +28577,7 @@ id,label,type,sex,domain,country,city,bdate
 93199891,Никита Лютый,friend_of_friend,male,vk.com/nikita_27,Unknown,Санкт-Петербург,27.3.1998
 96270240,Артём Соснин,friend_of_friend,male,vk.com/artyom_kas,Unknown,Москва,24.7
 100003521,Мария Промина,friend_of_friend,female,vk.com/maria_promina,Unknown,Unknown,28.9
-101806008,Эрика Кульпина,friend_of_friend,female,vk.com/super_jelly,Unknown,Тыреть 2-я,17.5
+101806008,Эрика Кульпина,friend_of_friend,female,vk.com/id101806008,Unknown,Тыреть 2-я,17.5
 101941799,Анастасия Аристова,friend_of_friend,female,vk.com/id101941799,Unknown,Пермь,9.12
 103854485,Наталья Булатова,friend_of_friend,female,vk.com/natalyy999,Unknown,Пермь,30.9
 107927968,Костя Садыков,friend_of_friend,male,vk.com/ksadykov,Unknown,Липецк,9.1
@@ -28675,7 +28677,7 @@ id,label,type,sex,domain,country,city,bdate
 5439058,Наталья Азанова,friend_of_friend,female,vk.com/nataliazanova,Unknown,Unknown,Unknown
 5576246,Анна Фокс,friend_of_friend,female,vk.com/foxanna,Unknown,Пермь,3.4
 5609222,Екатерина Рачёва,friend_of_friend,female,vk.com/id5609222,Unknown,Пермь,15.6
-6013304,Александр Кыркунов,friend_of_friend,male,vk.com/id6013304,Unknown,Пермь,28.6
+6013304,Александр Кыркунов,friend_of_friend,male,vk.com/id6013304,Unknown,Пермь,Unknown
 6267711,Елена Ипатова,friend_of_friend,female,vk.com/ipatofffa,Unknown,Пермь,1.8
 6277044,Елена Елена,friend_of_friend,female,vk.com/id6277044,Unknown,Unknown,Unknown
 6331442,Александр Белов,friend_of_friend,male,vk.com/doctorshtain,Unknown,Пермь,Unknown
@@ -29108,7 +29110,7 @@ id,label,type,sex,domain,country,city,bdate
 151359075,Кристина Стасенко,friend_of_friend,female,vk.com/id151359075,Unknown,Гомель,Unknown
 152019477,Эльдар Губайдуллин,friend_of_friend,male,vk.com/taylorswift_22,Unknown,Москва,26.4
 152607625,Муродхон Жалолов,friend_of_friend,male,vk.com/murod_giant,Unknown,Касансай,12.7.1993
-154199479,Полина Пачина,friend_of_friend,female,vk.com/ribsbylordee,Unknown,Пермь,7.9
+154199479,Полина Пачина,friend_of_friend,female,vk.com/ribsbylordee,Unknown,Пермь,Unknown
 156287430,Лиза Решетова,friend_of_friend,female,vk.com/liza.reshetova,Unknown,Екатеринбург,20.10
 156852994,Безнен Чирмешэн,friend_of_friend,female,vk.com/beznen2014,Unknown,Черемшан,Unknown
 157016257,Шариф Гайнитдин,friend_of_friend,male,vk.com/sharif92,Unknown,Ташкент,7.10.1992
@@ -29632,16 +29634,16 @@ id,label,type,sex,domain,country,city,bdate
 301179376,Софа Тверитинова,friend_of_friend,female,vk.com/sofatveritinova,Unknown,Пермь,Unknown
 303411071,Улмасбек Матёкубов,friend_of_friend,male,vk.com/feluxofficial,Unknown,Unknown,17.4
 306798887,Анна Плохая,friend_of_friend,female,vk.com/id306798887,Unknown,Пермь,12.12.2003
+306908915,Полина Процив,friend_of_friend,female,vk.com/cevilleer,Unknown,Unknown,11.2
 307430419,Денис Кривошеев,friend_of_friend,male,vk.com/voda.water,Unknown,Санкт-Петербург,18.1
 309443135,Лиза Иванова,friend_of_friend,female,vk.com/liza_ivanova125,Unknown,Томск,16.8.2004
-309764101,Татьяна Степанова,friend_of_friend,female,vk.com/id309764101,Unknown,Unknown,5.11.1963
+309764101,Татьяна Степанова,friend_of_friend,female,vk.com/t.stepanova63,Unknown,Unknown,5.11.1963
 310013211,Кирилл Топорков,friend_of_friend,male,vk.com/garrrrgamel,Unknown,Тверь,31.10
 310395373,Юля Навалихина,friend_of_friend,female,vk.com/yulya_nvl,Unknown,Unknown,Unknown
 312105965,Соня Копылова,friend_of_friend,female,vk.com/scotoboy,Unknown,Unknown,15.9
 312258723,Никита Смертин,friend_of_friend,male,vk.com/kolostritt,Unknown,Пермь,30.4
 313369550,Илья Ни,friend_of_friend,male,vk.com/ilusha9191,Unknown,Пермь,31.12
 313738121,Алексей Лячканов,friend_of_friend,male,vk.com/sleemal,Unknown,Unknown,24.6
-314943626,Артём Чирков,friend_of_friend,male,vk.com/yowoouiyi,Unknown,Unknown,Unknown
 372681,Евгения Крюкова,friend_of_friend,female,vk.com/zkrukova,Unknown,Москва,24.4.1984
 775520,Дмитрий Шустров,friend_of_friend,male,vk.com/id775520,Unknown,Unknown,Unknown
 1014804,Владимир Степанов-Егиянц,friend_of_friend,male,vk.com/id1014804,Unknown,Москва,2.4.1981
@@ -29730,7 +29732,7 @@ id,label,type,sex,domain,country,city,bdate
 140562219,Дамир Ахатов,friend_of_friend,male,vk.com/id140562219,Unknown,Москва,29.3
 140780385,Евгений Кудрявцев,friend_of_friend,male,vk.com/evgkud,Unknown,Москва,20.11.2002
 141978335,Руфина Гарифьянова,friend_of_friend,female,vk.com/id141978335,Unknown,Малмыж,17.12
-142482105,Егор Шайдров,friend_of_friend,male,vk.com/shaidr,Unknown,Unknown,4.8
+142482105,Егор Шайдров,friend_of_friend,male,vk.com/shaidr,Unknown,Unknown,Unknown
 142697194,Руслан Закиев,friend_of_friend,male,vk.com/id142697194,Unknown,Малмыж,25.4.2002
 143173171,Артём Комаров,friend_of_friend,male,vk.com/mr.hurma,Unknown,Казань,20.4.2001
 143598668,Екатерина Максимова,friend_of_friend,female,vk.com/vmskm,Unknown,Москва,3.9.2003
@@ -30129,6 +30131,7 @@ id,label,type,sex,domain,country,city,bdate
 140291404,Влад Кондратов,friend_of_friend,male,vk.com/vladleto59,Unknown,Пермь,2.8.1977
 140390858,Артём Федосеев,friend_of_friend,male,vk.com/temmchikf,Unknown,Петергоф,26.2
 143646300,Любовь Белоглазова,friend_of_friend,female,vk.com/id143646300,Unknown,Dodoma,Unknown
+143838844,Магомед Айдемиров,friend_of_friend,male,vk.com/aydemirov_m,Unknown,Санкт-Петербург,10.8
 147196340,Тихон Юрченко,friend_of_friend,male,vk.com/irk00tyanka,Unknown,Санкт-Петербург,13.8
 148380769,Ваня Зайцев,friend_of_friend,male,vk.com/ivanzaytcev,Unknown,Екатеринбург,10.12.2002
 150629799,Эмир Вильданов,friend_of_friend,male,vk.com/general_bum,Unknown,Санкт-Петербург,14.12.2001
@@ -30252,7 +30255,6 @@ id,label,type,sex,domain,country,city,bdate
 253098389,Александр Сульган,friend_of_friend,male,vk.com/diamondsqd,Unknown,Unknown,11.9.1902
 253371424,Михаил Ивенсен,friend_of_friend,male,vk.com/mic.ivensen,Unknown,Unknown,Unknown
 253387675,Дарья Лапина,friend_of_friend,female,vk.com/lapinad017,Unknown,Санкт-Петербург,19.7
-253637186,Макар Билык,friend_of_friend,male,vk.com/makarbilyk,Unknown,Unknown,Unknown
 141391,Елена Князькова,friend_of_friend,female,vk.com/elenaknyazkova,Unknown,Москва,20.4
 247503,Алексей Токмагашев,friend_of_friend,male,vk.com/tokmagashev,Unknown,Междуреченск,27.6
 864275,Александр Махлин,friend_of_friend,male,vk.com/mahlinalexander,Unknown,Новокузнецк,26.7.1985
@@ -30981,7 +30983,7 @@ id,label,type,sex,domain,country,city,bdate
 88640414,Женя Пугачев,friend_of_friend,male,vk.com/id88640414,Unknown,Киев,24.5
 88688038,Лілія Антощук,friend_of_friend,female,vk.com/id88688038,Unknown,Черновцы,Unknown
 90449873,Александр Марков,friend_of_friend,male,vk.com/alexandermarkov10,Unknown,Киев,20.5.1983
-90959216,Энтони Мошковский,friend_of_friend,male,vk.com/antonhymilan,Unknown,Los Angeles,18.6.1995
+90959216,Милан Викинг,friend_of_friend,male,vk.com/id90959216,Unknown,Los Angeles,18.6.1995
 93023569,Eli Romanova,friend_of_friend,female,vk.com/elifoxy,Unknown,Санкт-Петербург,22.3
 93237071,Маша Радько,friend_of_friend,female,vk.com/id93237071,Unknown,Paris,Unknown
 93824367,Ани Вартанян,friend_of_friend,female,vk.com/a.vardy,Unknown,Москва,18.1.1998
@@ -32053,7 +32055,7 @@ id,label,type,sex,domain,country,city,bdate
 283532753,Masha Klestova,friend_of_friend,female,vk.com/id283532753,Unknown,Пермь,1.7.2000
 284442765,Екатерина Кузнецова,friend_of_friend,female,vk.com/id284442765,Unknown,Пермь,8.2
 291764622,Анастасия Костина,friend_of_friend,female,vk.com/id291764622,Unknown,Екатеринбург,Unknown
-295121004,Костя Письменский,friend_of_friend,male,vk.com/kostetpistolet,Unknown,Пермь,29.12
+295121004,Костя Письменский,friend_of_friend,male,vk.com/peacemensky,Unknown,Пермь,29.12
 295564318,Карина Иванова,friend_of_friend,female,vk.com/id295564318,Unknown,Unknown,Unknown
 295598439,Елизавета Чистякова,friend_of_friend,female,vk.com/cheesah,Unknown,Unknown,12.12.2004
 305536769,Соня Апалько,friend_of_friend,female,vk.com/gdzvilenkinn,Unknown,Unknown,28.11.2003
@@ -32236,7 +32238,7 @@ id,label,type,sex,domain,country,city,bdate
 230070531,Михаил Войшко,friend_of_friend,male,vk.com/mischav,Unknown,Пермь,23.1.2003
 230196937,Nika Kolchanova,friend_of_friend,female,vk.com/kolchnika,Unknown,Санкт-Петербург,29.5
 230255889,Анастасия Андреева,friend_of_friend,female,vk.com/baabyy18,Unknown,Пермь,18.3.2001
-230837251,Сергей Мир,friend_of_friend,male,vk.com/id_smajlik_444,Unknown,Unknown,3.9
+230837251,Сергей Мир,friend_of_friend,male,vk.com/id_smajlik_444,Unknown,Unknown,3.9.1999
 232399915,Дарья Лунегова,friend_of_friend,female,vk.com/dlunegovaa,Unknown,Unknown,3.8.2002
 232885458,Алина Иманаева,friend_of_friend,female,vk.com/gappasova2003,Unknown,Москва,Unknown
 233626497,Милана Рудская,friend_of_friend,female,vk.com/id233626497,Unknown,Пермь,29.7
@@ -32769,6 +32771,7 @@ id,label,type,sex,domain,country,city,bdate
 229417331,Даня Оборин,friend_of_friend,male,vk.com/danyaoborin,Unknown,Пермь,31.7.2003
 230379278,Ivan Aksenov,friend_of_friend,male,vk.com/elix777ir,Unknown,Москва,19.8.2002
 231049479,Соня Базина,friend_of_friend,female,vk.com/ffsonss,Unknown,Unknown,16.6
+237769636,Руслан Романов,friend_of_friend,male,vk.com/russianadmiralslegendonline,Unknown,Санкт-Петербург,3.5
 240236451,Никита Орлов,friend_of_friend,male,vk.com/id240236451,Unknown,Unknown,Unknown
 247334255,Владимир Гончарук,friend_of_friend,male,vk.com/id247334255,Unknown,Нижний Новгород,29.7
 260406026,Ждан Булло,friend_of_friend,male,vk.com/heavymetalangel,Unknown,Новополоцк,27.9.2003
@@ -32852,7 +32855,6 @@ id,label,type,sex,domain,country,city,bdate
 533644163,Востриков Андрей,friend_of_friend,male,vk.com/tehand,Unknown,Пермь,19.1.2003
 533695431,Кирилл Селезнев,friend_of_friend,male,vk.com/venze1es,Unknown,Санкт-Петербург,27.9.2004
 534262861,Anastasiya Padabed,friend_of_friend,female,vk.com/id534262861,Unknown,Санкт-Петербург,27.8.1973
-543673139,Vladislav Khamidullin,friend_of_friend,male,vk.com/id543673139,Unknown,Unknown,Unknown
 285077,Александр Есманский,friend_of_friend,male,vk.com/alexesmanskiy,Unknown,Москва,Unknown
 1212314,Лилия Синкевич,friend_of_friend,female,vk.com/id1212314,Unknown,Санкт-Петербург,9.9
 1996010,Jya Avrora,friend_of_friend,female,vk.com/j.avrora,Unknown,San Clemente,20.4
@@ -33211,7 +33213,7 @@ id,label,type,sex,domain,country,city,bdate
 109013917,Екатерина Пахомова,friend_of_friend,female,vk.com/rinuccia18,Unknown,Москва,13.7.2000
 111006178,Анастасия Голикова,friend_of_friend,female,vk.com/golikovanastasia,Unknown,Unknown,4.10
 111450573,Vitalik Lazarenko,friend_of_friend,male,vk.com/lazervit,Unknown,Краснодар,1.4
-112834782,Яна Вайс,friend_of_friend,female,vk.com/janaweiss98,Unknown,Frankfurt am Main,9.9.1998
+112834782,Яна Вайс,friend_of_friend,female,vk.com/id112834782,Unknown,Frankfurt am Main,9.9.1998
 113467924,Леонид Черепанов,friend_of_friend,male,vk.com/idleo_get,Unknown,Санкт-Петербург,Unknown
 114976697,Александра Матвеева,friend_of_friend,female,vk.com/povilanenalexcandra,Unknown,Новосибирск,23.2
 115387535,Александра Докторович,friend_of_friend,female,vk.com/doca_doca,Unknown,Москва,23.11.1998

@@ -46,16 +46,16 @@ def index():
         assortativity_data.append(user[17])
         clusteringcoefficient_data.append(user[18])
 
-    # pagerank_graph = create_graph(user_names, pagerank_data, 'pagerank')
-    # betweennesscentrality_graph = create_graph(user_names, betweennesscentrality_data, 'betweennesscentrality')
-    # degreecentrality_graph = create_graph(user_names, degreecentrality_data, 'degreecentrality')
-    # transitivity_graph = create_graph(user_names, transitivity_data, 'transitivity')
-    # assortativity_graph = create_graph(user_names, pagerank_data, 'assortativity')
-    # clusteringcoefficient_graph = create_graph(user_names, clusteringcoefficient_data, 'clusteringcoefficient')
+    pagerank_graph = create_graph(user_names, pagerank_data, 'pagerank')
+    betweennesscentrality_graph = create_graph(user_names, betweennesscentrality_data, 'betweennesscentrality')
+    degreecentrality_graph = create_graph(user_names, degreecentrality_data, 'degreecentrality')
+    transitivity_graph = create_graph(user_names, transitivity_data, 'transitivity')
+    assortativity_graph = create_graph(user_names, pagerank_data, 'assortativity')
+    clusteringcoefficient_graph = create_graph(user_names, clusteringcoefficient_data, 'clusteringcoefficient')
     graphs = []
     # Добавляем каждый график в слайдер
-    # graphs = [pagerank_graph, betweennesscentrality_graph, degreecentrality_graph, transitivity_graph,
-    #           assortativity_graph, clusteringcoefficient_graph]
+    graphs = [pagerank_graph, betweennesscentrality_graph, degreecentrality_graph, transitivity_graph,
+              assortativity_graph, clusteringcoefficient_graph]
     # Сохранение изменений и закрытие соединения
     cursor.close()
     conn.close()
