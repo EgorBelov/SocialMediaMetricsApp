@@ -1,7 +1,7 @@
 import requests
 import json
 
-from App.DB.requests import tokens
+from App.DB.requests_api_VK import tokens
 
 
 def request_users_get(user_ids):

@@ -1,0 +1,10 @@
+@startuml
+class D3 {
+    to_json()
+    write_json()
+        friendships
+    dict_friends
+    __init__()
+}
+VkFriends <|-- D3
+@enduml

@@ -4,7 +4,7 @@ import time
 import operator
 import networkx as nx
 import requests
-from App.mutual_friends.settings import token, my_id, api_v, max_workers, delay, deep
+from .settings import token, my_id, api_v, max_workers, delay, deep
 
 
 def force(f, delay=delay):

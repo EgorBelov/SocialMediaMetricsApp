@@ -3,8 +3,8 @@ import requests
 import os
 import time
 
-from App.DB.requests.tokens import access_user_token, access_user_token_1
-from App.deep_friends.csv_to_nx_graph import csv_to_networkx_dict, calculate_graph_properties, main
+from tokens import access_user_token, access_user_token_1
+from csv_to_nx_graph import csv_to_networkx_dict, calculate_graph_properties, main
 
 
 def get_user_info(user_id, fields, token, api_version) -> dict:
@@ -233,10 +233,10 @@ def create_graph(user_uid):
 if __name__ == '__main__':
     conn = psycopg2.connect(
         database="SocialMediaMetrics",
-        user="postgres",
+        user="postgre_serv",
         password="123321",
-        host="localhost",
-        port="5432"
+        host="80.87.201.50",
+        port="38147"
     )
 
     # Создание курсора

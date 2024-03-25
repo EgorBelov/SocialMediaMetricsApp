@@ -1,0 +1,16 @@
+@startuml
+class VkException {
+    __str__()
+        message
+    __init__()
+}
+class VkFriends {
+    request_url()
+    base_info()
+    friends()
+    common_friends()
+    get_mutual_friends()
+        __init__()
+}
+Exception <|-- VkException
+@enduml

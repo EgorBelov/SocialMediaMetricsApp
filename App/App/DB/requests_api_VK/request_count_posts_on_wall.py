@@ -1,6 +1,6 @@
 import requests
 import json
-from App.DB.requests import tokens
+from App.DB.requests_api_VK import tokens
 
 
 def request_count_likes_from_wall(id):
@@ -9,7 +9,7 @@ def request_count_likes_from_wall(id):
                 'owner_id': id,
                 'v': '5.199',
                 'filter': 'all',
-                'count': 10,
+                'count': 100,
             })
 
         # Получаем информацию
@@ -24,4 +24,5 @@ def request_count_likes_from_wall(id):
 # print(f'количество лайков: {likes_count}')
 # print(f'количество репостов: {reposts_count}')
 # print(f'количество комментов: {comments_count}')
-#(request_count_likes_from_wall(673687878))
+res = request_count_likes_from_wall(673687878)
+print(res)

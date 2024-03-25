@@ -5,8 +5,8 @@ import networkx as nx
 import psycopg2
 from matplotlib import pyplot as plt
 
-from App.mutual_friends.main import VkFriends
-from App.mutual_friends.settings import token, my_id, api_v, max_workers, delay, deep
+from .main import VkFriends
+from .settings import token, my_id, api_v, max_workers, delay, deep
 
 
 class D3(VkFriends):

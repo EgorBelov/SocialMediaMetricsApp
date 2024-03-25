@@ -1,15 +1,15 @@
 import psycopg2
-
-from App.DB.requests import request_count_likes_from_wall, request_users_get
-from App.DB.requests.request_count_followers import request_count_followers
-from App.DB.requests.request_count_friends import request_count_friends
+from requests_api_VK.request_count_likes_from_wall import request_count_likes_from_wall
+from requests_api_VK.request_users_get import request_users_get
+from requests_api_VK.request_count_followers import request_count_followers
+from requests_api_VK.request_count_friends import request_count_friends
 
 conn = psycopg2.connect(
     database="SocialMediaMetrics",
-    user="postgres",
+    user="postgre_serv",
     password="123321",
-    host="localhost",
-    port="5432"
+    host="80.87.201.50",
+    port="38147"
 )
 
 # Создание курсора
@@ -36,7 +36,7 @@ cursor.execute('''
         degree_centrality FLOAT,
         transitivity FLOAT,
         assortativity FLOAT,
-        clustering_coefficient FLOAT,
+        clustering_coefficient FLOAT
     )
 ''')
 
@@ -46,7 +46,7 @@ with open('users_uids', 'r') as file:
     # Считываем строки из файла и удаляем лишние пробелы и символы новой строки
     user_ids = [line.strip() for line in file.readlines()]
 
-users = request_users_get.request_users_get(user_ids)
+users = request_users_get(user_ids)
 
 for user in users:
     if user['is_closed'] is False and user['is_no_index'] is False:
@@ -61,7 +61,7 @@ users_ids = cursor.fetchall()
 
 # Обновление данных в таблице средним количеством лайков на фото
 for user_id in users_ids:
-    metrics = request_count_likes_from_wall.request_count_likes_from_wall(user_id[1])
+    metrics = request_count_likes_from_wall(user_id[1])
     cursor.execute('''
         UPDATE vk_users
         SET likes_on_wall = %s,
@@ -74,13 +74,13 @@ for user_id in users_ids:
     count = request_count_friends(user_id[1])
     cursor.execute('''
             UPDATE vk_users
-            SET count_friends = %s,
+            SET count_friends = %s
             WHERE id_vk = %s
         ''', (count, user_id[1]))
     count = request_count_followers(user_id[1])
     cursor.execute('''
                 UPDATE vk_users
-                SET count_followers = %s,
+                SET count_followers = %s
                 WHERE id_vk = %s
             ''', (count, user_id[1]))
 
